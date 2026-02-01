@@ -151,15 +151,6 @@ shadowfi/
 ├── package.json
 └── README.md
 ```
-
----
-
-## 🚀 Live Demo
-
-**Frontend:** [https://client-hazel-delta.vercel.app](https://client-hazel-delta.vercel.app)
-
-**GitHub:** [https://github.com/ck2010317/shadowfi](https://github.com/ck2010317/shadowfi)
-
 ---
 
 ## 👤 Team
