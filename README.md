@@ -38,6 +38,7 @@ Launch a token and instantly buy into multiple stealth wallets - all in one acti
 - Multiple wallets verified with tokens on chain
 
 ### Tokens Launched with Pre-Buy:
+- ShadowFi Test: 'E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge'
 - HACK2: `J6omzVQjoVmGYL3kPdBwWSq4ZNT794TxnRSEmWDBdoge`
 - HACK3: `A3b6K2QyZKVGpjGTb21F8GoYnNBaifgAGgNv8uQSdoge`
 
