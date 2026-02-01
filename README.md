@@ -33,8 +33,8 @@ Launch a token and instantly buy into multiple stealth wallets - all in one acti
 ##  Live Mainnet Proof
 
 ### Anonymous Swaps Completed:
-- [Swap 1](https://solscan.io/tx/4jinZmfx8QDYn9ave41hfpvc3YrUBqABp3QhECFj8f9VHBssPaUvsy1enTMGmKRHF6cnRFZ3basRxBrnKkAXPuJu) - SOL → SHADOW token
-- [Swap 2](https://solscan.io/tx/2JXb7ziqUFejWH12rEoLX1DDQED5DDSjRaRW9dXWBxGmq2RHVWJzhWfYsEtF4SWfJsuV2UfJuoy79k39WkrZUBxC) - SOL → HACK3 token
+- [Swap 1](https://solscan.io/tx/1WhY6TqKSgByQWUoziSN7gSuWf4Qm65Rce3SKM6eGphQBfJS9EwGhENUzz86S79kB3NdvbM68UDwoNJDC3rjMjL) - SOL → HACK3 token
+- [Swap 2](https://solscan.io/tx/2JXb7ziqUFejWH12rEoLX1DDQED5DDSjRaRW9dXWBxGmq2RHVWJzhWfYsEtF4SWfJsuV2UfJuoy79k39WkrZUBxC) - SOL → HACK2 token
 - Multiple wallets verified with tokens on chain
 
 ### Tokens Launched with Pre-Buy:
