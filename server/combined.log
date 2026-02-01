@@ -1,0 +1,81 @@
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T10:18:10.403Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T10:18:10.405Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T10:18:10.405Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T10:18:10.405Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/launch"},"timestamp":"2026-01-31T10:18:21.027Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/favicon.ico"},"timestamp":"2026-01-31T10:18:21.365Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:23:21.279Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:23:21.282Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T14:23:21.282Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:23:21.282Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:23:21.282Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T14:23:33.738Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:23:33.738Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T14:23:33.739Z"}
+{"level":"warn","message":"Jupiter quote failed:","timestamp":"2026-02-01T14:23:34.042Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T14:23:39.709Z"}
+{"level":"warn","message":"Jupiter quote failed:","timestamp":"2026-02-01T14:23:39.858Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T14:24:37.180Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:24:38.380Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:24:38.382Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T14:24:38.383Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:24:38.383Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:24:38.383Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T14:28:32.556Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:28:32.556Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T14:28:32.557Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:28:33.038Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T14:28:37.012Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:28:37.181Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:28:53.673Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"39i3zzN4...","timestamp":"2026-02-01T14:28:53.700Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap bb0d77df-eee4-4b6f-aa61-d1a810f90494","outputMint":"EPjFWdd5","timestamp":"2026-02-01T14:28:53.700Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"B1tnfUbe...","timestamp":"2026-02-01T14:28:53.701Z","viewTag":"b270c0ed"}
+{"level":"info","message":"Generated stealth output address: B1tnfUbe...","timestamp":"2026-02-01T14:28:53.701Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:28:54.103Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/execute/bb0d77df-eee4-4b6f-aa61-d1a810f90494"},"timestamp":"2026-02-01T14:29:13.621Z"}
+{"level":"info","message":"Executing anonymous swap bb0d77df-eee4-4b6f-aa61-d1a810f90494","timestamp":"2026-02-01T14:29:13.621Z"}
+{"level":"warn","message":"Jupiter swap API failed:","timestamp":"2026-02-01T14:29:14.036Z"}
+{"level":"info","message":"Swap bb0d77df-eee4-4b6f-aa61-d1a810f90494 completed in demo mode (privacy layer is REAL)","timestamp":"2026-02-01T14:29:14.036Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T14:30:47.967Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:30:49.180Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:30:49.183Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T14:30:49.184Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:30:49.184Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:30:49.184Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:31:40.440Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:31:40.441Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T14:31:40.442Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"DKU5neqr...","timestamp":"2026-02-01T14:31:40.474Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 6e8cf0bd-bda7-4c2e-a902-04f18fb4108a","outputMint":"EPjFWdd5","timestamp":"2026-02-01T14:31:40.474Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"FWqq3B9h...","timestamp":"2026-02-01T14:31:40.476Z","viewTag":"72d64d2a"}
+{"level":"info","message":"Generated stealth output address: FWqq3B9h...","timestamp":"2026-02-01T14:31:40.476Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:31:40.914Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:31:44.835Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"CPWbFT2q...","timestamp":"2026-02-01T14:31:44.837Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 3d0c4fee-5480-4150-be9e-10b193796094","outputMint":"EPjFWdd5","timestamp":"2026-02-01T14:31:44.837Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"D5qBZZD7...","timestamp":"2026-02-01T14:31:44.838Z","viewTag":"1ac5ea84"}
+{"level":"info","message":"Generated stealth output address: D5qBZZD7...","timestamp":"2026-02-01T14:31:44.838Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:31:45.094Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/execute/3d0c4fee-5480-4150-be9e-10b193796094"},"timestamp":"2026-02-01T14:31:50.855Z"}
+{"level":"info","message":"Executing anonymous swap 3d0c4fee-5480-4150-be9e-10b193796094","timestamp":"2026-02-01T14:31:50.855Z"}
+{"level":"info","message":"Jupiter swap transaction received","timestamp":"2026-02-01T14:31:51.870Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:33:06.848Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"BRETEiCg...","timestamp":"2026-02-01T14:33:06.852Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap a5344d77-c4ed-4b3e-af56-24f6e9e330f7","outputMint":"E2wwdzHg","timestamp":"2026-02-01T14:33:06.852Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"BdP9EMeA...","timestamp":"2026-02-01T14:33:06.853Z","viewTag":"c0983dab"}
+{"level":"info","message":"Generated stealth output address: BdP9EMeA...","timestamp":"2026-02-01T14:33:06.853Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:33:07.287Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:34:06.546Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"4SDjX9Sh...","timestamp":"2026-02-01T14:34:06.548Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 2547df2d-1570-4428-a49e-190dbc9ad9d1","outputMint":"E2wwdzHg","timestamp":"2026-02-01T14:34:06.548Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"HVfo4YM7...","timestamp":"2026-02-01T14:34:06.549Z","viewTag":"ed734a6d"}
+{"level":"info","message":"Generated stealth output address: HVfo4YM7...","timestamp":"2026-02-01T14:34:06.549Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:34:06.949Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:40:43.615Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"2jTfU1iY...","timestamp":"2026-02-01T14:40:43.619Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 6beec918-6fe5-4f32-82e8-b20299691fcd","outputMint":"EPjFWdd5","timestamp":"2026-02-01T14:40:43.619Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"s1RkHXAg...","timestamp":"2026-02-01T14:40:43.619Z","viewTag":"c3a1d16d"}
+{"level":"info","message":"Generated stealth output address: s1RkHXAg...","timestamp":"2026-02-01T14:40:43.619Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T14:40:44.006Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T14:47:20.909Z"}

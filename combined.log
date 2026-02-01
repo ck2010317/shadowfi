@@ -1,0 +1,1172 @@
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T05:46:18.947Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T05:46:18.948Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T05:46:18.948Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T05:46:18.949Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-01-31T05:47:05.967Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-01-31T05:47:10.731Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T05:51:45.732Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T05:51:54.102Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T05:51:54.104Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T05:51:54.104Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T05:51:54.104Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T05:52:26.419Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T05:52:26.420Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T05:52:26.420Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T05:52:26.421Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T10:11:41.829Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T10:11:43.301Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T10:11:43.303Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T10:11:43.303Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T10:11:43.303Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-01-31T10:12:11.216Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-01-31T10:12:11.220Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T10:15:16.005Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T10:15:16.006Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T10:15:16.006Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T10:15:16.006Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T13:14:24.581Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T13:14:24.583Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T13:14:24.583Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T13:14:24.583Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T13:16:11.022Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T13:16:11.027Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/favicon.svg"},"timestamp":"2026-01-31T13:16:31.323Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T13:16:31.829Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T13:16:32.283Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T13:16:32.963Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T13:16:42.548Z"}
+{"level":"info","message":"Dark Pool Engine stopped","timestamp":"2026-01-31T13:16:42.548Z"}
+{"level":"info","message":"Mixnet Router shutdown","timestamp":"2026-01-31T13:16:42.548Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T13:16:42.580Z"}
+{"level":"info","message":"Mixnet Router shutdown","timestamp":"2026-01-31T13:16:42.580Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T13:16:42.581Z"}
+{"level":"info","message":"Mixnet Router shutdown","timestamp":"2026-01-31T13:16:42.581Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T13:16:42.581Z"}
+{"level":"info","message":"Mixnet Router shutdown","timestamp":"2026-01-31T13:16:42.581Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T13:16:42.581Z"}
+{"level":"info","message":"Mixnet Router shutdown","timestamp":"2026-01-31T13:16:42.581Z"}
+{"level":"info","message":"Server closed","timestamp":"2026-01-31T13:18:52.792Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T13:19:46.133Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T13:19:46.134Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T13:19:46.135Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T13:19:46.135Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T17:10:25.522Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T17:10:25.524Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T17:10:25.524Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T17:10:25.525Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T17:11:01.657Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/"},"timestamp":"2026-01-31T17:11:02.152Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/favicon.ico"},"timestamp":"2026-01-31T17:11:02.503Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T17:12:47.555Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T17:12:47.557Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T17:12:47.557Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T17:12:47.558Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T17:48:46.681Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T17:48:46.683Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T17:48:46.683Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T17:48:46.683Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T18:34:08.621Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T18:34:08.622Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T18:34:08.623Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T18:34:08.623Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:34:51.538Z"}
+{"level":"info","message":"Anoncoin API: POST /api/v1/token/deploy","timestamp":"2026-01-31T18:34:51.540Z"}
+{"level":"error","message":"Token deployment failed:","timestamp":"2026-01-31T18:34:52.050Z"}
+{"level":"error","message":"Network error: write EPROTO 80E0B9F001000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:916:SSL alert number 112\n","path":"/api/v1/token/deploy","stack":"Error: Network error: write EPROTO 80E0B9F001000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:916:SSL alert number 112\n\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:319:12)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:68:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:34:52.051Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:34:58.298Z"}
+{"level":"info","message":"Anoncoin API: POST /api/v1/token/deploy","timestamp":"2026-01-31T18:34:58.299Z"}
+{"level":"error","message":"Token deployment failed:","timestamp":"2026-01-31T18:34:58.426Z"}
+{"level":"error","message":"Network error: write EPROTO 80E0B9F001000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:916:SSL alert number 112\n","path":"/api/v1/token/deploy","stack":"Error: Network error: write EPROTO 80E0B9F001000000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:ssl/record/rec_layer_s3.c:916:SSL alert number 112\n\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:319:12)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:68:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:34:58.427Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.anoncoin.xyz","timestamp":"2026-01-31T18:48:40.292Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T18:48:40.294Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T18:48:40.295Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T18:48:40.295Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T18:48:40.295Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T18:48:58.683Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.anoncoin.xyz","timestamp":"2026-01-31T18:48:59.779Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T18:48:59.782Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T18:48:59.782Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T18:48:59.782Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T18:48:59.782Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-01-31T18:49:34.509Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T18:49:34.511Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T18:49:34.511Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T18:49:34.511Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T18:49:34.512Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-01-31T18:53:09.728Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T18:53:09.731Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T18:53:09.731Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T18:53:09.731Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T18:53:09.731Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:53:11.716Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-01-31T18:53:11.716Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"TestToken","symbol":"TEST","timestamp":"2026-01-31T18:53:11.716Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Either files or imageUrl is required","requestId":"17db9b90-fed6-11f0-bb15-c39b6e151bde","status":false},"status":400,"timestamp":"2026-01-31T18:53:12.421Z"}
+{"level":"error","message":"Bad request: Either files or imageUrl is required","path":"/api/v1/token/deploy","stack":"Error: Bad request: Either files or imageUrl is required\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:53:12.422Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:53:17.929Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"TestToken","symbol":"TEST","timestamp":"2026-01-31T18:53:17.929Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Either files or imageUrl is required","requestId":"1b8fc9f0-fed6-11f0-bb15-c39b6e151bde","status":false},"status":400,"timestamp":"2026-01-31T18:53:18.616Z"}
+{"level":"error","message":"Bad request: Either files or imageUrl is required","path":"/api/v1/token/deploy","stack":"Error: Bad request: Either files or imageUrl is required\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:53:18.617Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:53:41.400Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"TestPrivacyToken","symbol":"TPRIV","timestamp":"2026-01-31T18:53:41.400Z"}
+{"level":"info","message":"Token deployment successful!","timestamp":"2026-01-31T18:53:43.290Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:54:08.884Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowPrivacy","symbol":"SHADOW","timestamp":"2026-01-31T18:54:08.884Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol already exists","requestId":"3a1a3d60-fed6-11f0-8521-6dc945242f1f","status":false},"status":400,"timestamp":"2026-01-31T18:54:10.601Z"}
+{"level":"error","message":"Bad request: tickerSymbol already exists","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol already exists\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:54:10.602Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:54:24.374Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowFiPrivacy","symbol":"SHFI1769885664","timestamp":"2026-01-31T18:54:24.374Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol must be at most 9 characters","requestId":"437e6a20-fed6-11f0-a6c7-d355efc5fd08","status":false},"status":400,"timestamp":"2026-01-31T18:54:26.218Z"}
+{"level":"error","message":"Bad request: tickerSymbol must be at most 9 characters","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol must be at most 9 characters\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:54:26.218Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:54:33.023Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest6653","symbol":"SHT6653","timestamp":"2026-01-31T18:54:33.023Z"}
+{"level":"info","message":"Token deployment successful!","timestamp":"2026-01-31T18:54:34.833Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:54:38.224Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTestXYZ","symbol":"SHTX99","timestamp":"2026-01-31T18:54:38.224Z"}
+{"level":"info","message":"Token deployment successful!","timestamp":"2026-01-31T18:54:39.390Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-01-31T18:54:57.584Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-01-31T18:54:58.740Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-01-31T18:54:58.742Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-01-31T18:54:58.742Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-01-31T18:54:58.742Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-01-31T18:54:58.742Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:55:00.842Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-01-31T18:55:00.842Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowPrivX","symbol":"SPRVX1","timestamp":"2026-01-31T18:55:00.843Z"}
+{"level":"info","message":"Token deployment successful!","timestamp":"2026-01-31T18:55:03.760Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:55:06.800Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowPrivX","symbol":"SPRVX1","timestamp":"2026-01-31T18:55:06.801Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol already exists","requestId":"5c5f20c0-fed6-11f0-ac84-af994197b70d","status":false},"status":400,"timestamp":"2026-01-31T18:55:07.955Z"}
+{"level":"error","message":"Bad request: tickerSymbol already exists","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol already exists\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:55:07.955Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:55:10.932Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowPrivX","symbol":"SPRVX1","timestamp":"2026-01-31T18:55:10.932Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol already exists","requestId":"5eaabe70-fed6-11f0-a258-1122a274e945","status":false},"status":400,"timestamp":"2026-01-31T18:55:11.819Z"}
+{"level":"error","message":"Bad request: tickerSymbol already exists","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol already exists\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T18:55:11.820Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:55:18.566Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"DarkMoon","symbol":"DMOON7","timestamp":"2026-01-31T18:55:18.566Z"}
+{"level":"info","message":"Token deployment successful!","timestamp":"2026-01-31T18:55:21.280Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T18:57:12.898Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"TestReal","symbol":"TREAL99","timestamp":"2026-01-31T18:57:12.898Z"}
+{"level":"info","message":"Token deployment successful!","timestamp":"2026-01-31T18:57:15.469Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T19:05:36.164Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHAD123","timestamp":"2026-01-31T19:05:36.165Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"d3c4f710-fed7-11f0-a631-03ed5de80ef1","status":false},"status":400,"timestamp":"2026-01-31T19:05:37.783Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T19:05:37.785Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T19:05:45.382Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHAD999","timestamp":"2026-01-31T19:05:45.382Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"d943ac40-fed7-11f0-a258-1122a274e945","status":false},"status":400,"timestamp":"2026-01-31T19:05:46.704Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T19:05:46.705Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-01-31T19:06:55.730Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"kiu","symbol":"IU","timestamp":"2026-01-31T19:06:55.731Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"0300f1f0-fed8-11f0-91cc-11feaf0ce911","status":false},"status":400,"timestamp":"2026-01-31T19:06:56.425Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:297:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:128:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-01-31T19:06:56.426Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T08:19:48.657Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T08:19:48.664Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T08:19:48.664Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T08:19:48.664Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T08:19:48.664Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T08:20:13.960Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T08:20:13.962Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T08:20:13.962Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T08:20:13.962Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T08:20:13.963Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T08:20:17.045Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T08:20:17.045Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"PrivacyMoon","symbol":"PMOON","timestamp":"2026-02-01T08:20:17.045Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol already exists","requestId":"d7c0b650-ff46-11f0-bca1-8b539dfea357","status":false},"status":400,"timestamp":"2026-02-01T08:20:18.971Z"}
+{"level":"error","message":"Bad request: tickerSymbol already exists","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol already exists\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:339:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:170:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T08:20:18.972Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T08:20:21.876Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"PrivacyMoon","symbol":"PMOON77","timestamp":"2026-02-01T08:20:21.876Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"5WTrSCxVuMp7Q856EiQpqHKxShWykUWGi5scv6mxdoge","timestamp":"2026-02-01T08:20:24.282Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T08:20:24.282Z"}
+{"code":-32602,"level":"warn","message":"Transaction broadcast failed: failed to deserialize solana_transaction::versioned::VersionedTransaction: io error: failed to fill whole buffer","timestamp":"2026-02-01T08:20:24.701Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T08:20:27.087Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T08:20:33.931Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowPrivacy","symbol":"SPRV99","timestamp":"2026-02-01T08:20:33.931Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"4HoDcXZXDfEnH8oaQNukmictGq4ydexmoLmv4yJLdoge","timestamp":"2026-02-01T08:20:36.471Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T08:20:36.471Z"}
+{"code":-32602,"level":"warn","message":"Transaction broadcast failed: failed to deserialize solana_transaction::versioned::VersionedTransaction: io error: failed to fill whole buffer","timestamp":"2026-02-01T08:20:36.953Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T09:02:00.488Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:02:01.734Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:02:01.737Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T09:02:01.737Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:02:01.737Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:02:01.737Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:02:04.741Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:02:04.742Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHDT01","timestamp":"2026-02-01T09:02:04.742Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"5WTrSCxVuMp7Q856EiQpqHKxShWykUWGi5scv6mxdoge","timestamp":"2026-02-01T09:02:07.543Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T09:02:07.544Z"}
+{"level":"info","message":"✅ Transaction broadcast successful!","timestamp":"2026-02-01T09:02:08.243Z","txSignature":"4aEGJ1sYKScuekof4YgCuDVyz5zMekF1dLq9oyLhMWmcmsoXPGJ9ZAp4NdWPbqQVjobn4BAqMAFmPvW5o15JyC1q"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:02:10.831Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHDT01","timestamp":"2026-02-01T09:02:10.831Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"b1c9b8b0-ff4c-11f0-93e5-b5ec0bc0ba5a","status":false},"status":400,"timestamp":"2026-02-01T09:02:11.692Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T09:02:11.693Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T09:02:15.300Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:02:20.841Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHDT01","timestamp":"2026-02-01T09:02:20.842Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"b82b2cc0-ff4c-11f0-9809-2ffc1b885b2c","status":false},"status":400,"timestamp":"2026-02-01T09:02:22.417Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T09:02:22.418Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T09:05:17.432Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:05:18.654Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:05:18.657Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T09:05:18.657Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:05:18.657Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:05:18.657Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:05:21.725Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:05:21.725Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowFi Privacy","symbol":"SHDFI","timestamp":"2026-02-01T09:05:21.726Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"4HoDcXZXDfEnH8oaQNukmictGq4ydexmoLmv4yJLdoge","timestamp":"2026-02-01T09:05:24.854Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T09:05:24.855Z"}
+{"level":"info","message":"✅ Transaction broadcast successful!","timestamp":"2026-02-01T09:05:25.467Z","txSignature":"2NhxKSfYgRqb2sBipsmLLVdgBEe2Xg5AhZh8xcxZZYYJik897Db9UprQ5vkDp7uAp1LpWLJLzQUVdk5oXKKvrsFb"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:07:10.129Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowFi Privacy","symbol":"SHDFI","timestamp":"2026-02-01T09:07:10.130Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol already exists","requestId":"6476b030-ff4d-11f0-afd0-672ec7596b1f","status":false},"status":400,"timestamp":"2026-02-01T09:07:11.789Z"}
+{"level":"error","message":"Bad request: tickerSymbol already exists","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol already exists\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T09:07:11.791Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T09:07:15.220Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:07:21.526Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowFi Privacy","symbol":"SHDFI","timestamp":"2026-02-01T09:07:21.526Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol already exists","requestId":"6b3e1200-ff4d-11f0-93e5-b5ec0bc0ba5a","status":false},"status":400,"timestamp":"2026-02-01T09:07:23.363Z"}
+{"level":"error","message":"Bad request: tickerSymbol already exists","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol already exists\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T09:07:23.363Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T09:07:29.756Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowFi Test","symbol":"SFT2026","timestamp":"2026-02-01T09:07:29.757Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T09:07:32.407Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T09:07:32.407Z"}
+{"level":"info","message":"✅ Transaction broadcast successful!","timestamp":"2026-02-01T09:07:33.012Z","txSignature":"rtYUGxJBetpKVL57PMkCrkzKqVr8KEuhhDZcUMSVZrif9MmdxBNQQXNfCmW2RD313twNgX6UQHPALTFxLqhnWvg"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T09:11:40.594Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:14:18.269Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:14:18.276Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T09:14:18.276Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:14:18.276Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:14:18.276Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:14:21.137Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T09:14:21.137Z"}
+{"level":"error","message":"bs58.encode is not a function","path":"/api/v1/stealth/generate-meta-address","stack":"TypeError: bs58.encode is not a function\n    at StealthAddressService.generateStealthMetaAddress (/Users/shaan/Anon coin/server/services/privacy/StealthAddressService.js:50:27)\n    at /Users/shaan/Anon coin/server/routes/stealth.js:32:33\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:280:10)\n    at router.handle (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:175:3)","timestamp":"2026-02-01T09:14:21.164Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:14:26.514Z"}
+{"level":"error","message":"bs58.encode is not a function","path":"/api/v1/stealth/generate-meta-address","stack":"TypeError: bs58.encode is not a function\n    at StealthAddressService.generateStealthMetaAddress (/Users/shaan/Anon coin/server/services/privacy/StealthAddressService.js:50:27)\n    at /Users/shaan/Anon coin/server/routes/stealth.js:32:33\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:280:10)\n    at router.handle (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:175:3)","timestamp":"2026-02-01T09:14:26.519Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T09:14:37.507Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:14:38.690Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:14:38.692Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T09:14:38.693Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:14:38.694Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:14:38.694Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:14:41.673Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T09:14:41.674Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"EMvok93z...","timestamp":"2026-02-01T09:14:41.702Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:14:46.552Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"HjVQo18C...","timestamp":"2026-02-01T09:14:46.557Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:14:54.864Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"461fkifH...","timestamp":"2026-02-01T09:14:54.866Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-address"},"timestamp":"2026-02-01T09:14:55.107Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"9pHPctAa...","timestamp":"2026-02-01T09:14:55.108Z","viewTag":"5b5debf0"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:15:03.762Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"2xXwnTfB...","timestamp":"2026-02-01T09:15:03.764Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-address"},"timestamp":"2026-02-01T09:15:04.044Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"HNkrMvBT...","timestamp":"2026-02-01T09:15:04.045Z","viewTag":"9fbbd244"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-meta-address"},"timestamp":"2026-02-01T09:15:10.716Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"Hb7uwTct...","timestamp":"2026-02-01T09:15:10.719Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/generate-address"},"timestamp":"2026-02-01T09:15:29.144Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"FKRxTWzX...","timestamp":"2026-02-01T09:15:29.145Z","viewTag":"d926b8d7"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/token-launch"},"timestamp":"2026-02-01T09:15:37.913Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"3pRDQUQK...","timestamp":"2026-02-01T09:15:37.914Z","viewTag":"e9b26f0d"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:15:37.914Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"Stealth Privacy Token","symbol":"STPRV1","timestamp":"2026-02-01T09:15:37.914Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for video generation","requestId":"9323bc10-ff4e-11f0-b91a-4197260224d4","status":false},"status":400,"timestamp":"2026-02-01T09:15:39.785Z"}
+{"level":"error","message":"Bad request: Daily limit reached for video generation","path":"/api/v1/stealth/token-launch","stack":"Error: Bad request: Daily limit reached for video generation\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/stealth.js:149:26","timestamp":"2026-02-01T09:15:39.786Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/stealth/token-launch"},"timestamp":"2026-02-01T09:15:44.128Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"6FK1oZvb...","timestamp":"2026-02-01T09:15:44.129Z","viewTag":"eaeab527"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:15:44.129Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"Stealth Privacy Token","symbol":"STPRV1","timestamp":"2026-02-01T09:15:44.129Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for video generation","requestId":"9671d5a0-ff4e-11f0-93e5-b5ec0bc0ba5a","status":false},"status":400,"timestamp":"2026-02-01T09:15:45.234Z"}
+{"level":"error","message":"Bad request: Daily limit reached for video generation","path":"/api/v1/stealth/token-launch","stack":"Error: Bad request: Daily limit reached for video generation\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/stealth.js:149:26","timestamp":"2026-02-01T09:15:45.234Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T09:28:38.098Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:28:39.346Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:28:39.349Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T09:28:39.349Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:28:39.349Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:28:39.349Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T09:28:42.360Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T09:28:42.360Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T09:28:42.361Z"}
+{"level":"error","message":"Failed to get Jupiter quote:","timestamp":"2026-02-01T09:28:42.398Z"}
+{"level":"error","message":"Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag","path":"/api/v1/anonswap/quote","stack":"Error: Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag\n    at RealAnonymousSwapService.getQuote (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:77:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/anonswap.js:48:19","timestamp":"2026-02-01T09:28:42.399Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T09:28:46.275Z"}
+{"level":"error","message":"Failed to get Jupiter quote:","timestamp":"2026-02-01T09:28:46.277Z"}
+{"level":"error","message":"Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag","path":"/api/v1/anonswap/quote","stack":"Error: Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag\n    at RealAnonymousSwapService.getQuote (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:77:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/anonswap.js:48:19","timestamp":"2026-02-01T09:28:46.277Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T09:29:34.618Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T09:29:46.233Z"}
+{"level":"error","message":"Failed to get Jupiter quote:","timestamp":"2026-02-01T09:29:46.235Z"}
+{"level":"error","message":"Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag","path":"/api/v1/anonswap/quote","stack":"Error: Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag\n    at RealAnonymousSwapService.getQuote (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:77:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/anonswap.js:48:19","timestamp":"2026-02-01T09:29:46.235Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T09:31:15.432Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"6J3qcXpq...","timestamp":"2026-02-01T09:31:15.458Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 18ae77f5-8bed-43f1-94e6-709804b47445","outputMint":"EPjFWdd5","timestamp":"2026-02-01T09:31:15.458Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"Hi4VtL8h...","timestamp":"2026-02-01T09:31:15.459Z","viewTag":"96052e72"}
+{"level":"info","message":"Generated stealth output address: Hi4VtL8h...","timestamp":"2026-02-01T09:31:15.459Z"}
+{"level":"error","message":"Failed to get Jupiter quote:","timestamp":"2026-02-01T09:31:15.461Z"}
+{"level":"error","message":"Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag","path":"/api/v1/anonswap/stealth-swap","stack":"Error: Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag\n    at RealAnonymousSwapService.getQuote (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:77:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async RealAnonymousSwapService.createAnonymousSwap (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:118:19)\n    at async /Users/shaan/Anon coin/server/routes/anonswap.js:196:24","timestamp":"2026-02-01T09:31:15.461Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T09:32:38.938Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"CsX982S5...","timestamp":"2026-02-01T09:32:38.940Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap e6706eee-8d00-4d7c-83c0-b2f778c3e5cd","outputMint":"EPjFWdd5","timestamp":"2026-02-01T09:32:38.940Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"D4adtFJh...","timestamp":"2026-02-01T09:32:38.941Z","viewTag":"3e0d0202"}
+{"level":"info","message":"Generated stealth output address: D4adtFJh...","timestamp":"2026-02-01T09:32:38.941Z"}
+{"level":"error","message":"Failed to get Jupiter quote:","timestamp":"2026-02-01T09:32:38.943Z"}
+{"level":"error","message":"Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag","path":"/api/v1/anonswap/stealth-swap","stack":"Error: Quote failed: getaddrinfo ENOTFOUND quote-api.jup.ag\n    at RealAnonymousSwapService.getQuote (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:77:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async RealAnonymousSwapService.createAnonymousSwap (/Users/shaan/Anon coin/server/services/swap/RealAnonymousSwapService.js:118:19)\n    at async /Users/shaan/Anon coin/server/routes/anonswap.js:196:24","timestamp":"2026-02-01T09:32:38.943Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T09:33:23.499Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:33:24.691Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:33:24.694Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T09:33:24.694Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:33:24.694Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:33:24.694Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T09:33:27.741Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T09:33:27.742Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T09:33:27.742Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"AwWpTsFe...","timestamp":"2026-02-01T09:33:27.768Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 504ffd31-0972-4c79-8b23-db362ddd7bc9","outputMint":"EPjFWdd5","timestamp":"2026-02-01T09:33:27.768Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"9F5uHqro...","timestamp":"2026-02-01T09:33:27.769Z","viewTag":"7cf2aa6d"}
+{"level":"info","message":"Generated stealth output address: 9F5uHqro...","timestamp":"2026-02-01T09:33:27.769Z"}
+{"level":"warn","message":"Jupiter quote failed, using fallback:","timestamp":"2026-02-01T09:33:27.784Z"}
+{"level":"info","message":"Swap 504ffd31-0972-4c79-8b23-db362ddd7bc9 scheduled for execution in 35434.942665931165ms","timestamp":"2026-02-01T09:33:27.785Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T09:33:30.837Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"37zBnYBo...","timestamp":"2026-02-01T09:33:30.839Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 9657716c-fed3-451c-8477-01ec605c5a9b","outputMint":"EPjFWdd5","timestamp":"2026-02-01T09:33:30.839Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"4cetsfKR...","timestamp":"2026-02-01T09:33:30.840Z","viewTag":"bc5ae961"}
+{"level":"info","message":"Generated stealth output address: 4cetsfKR...","timestamp":"2026-02-01T09:33:30.840Z"}
+{"level":"warn","message":"Jupiter quote failed, using fallback:","timestamp":"2026-02-01T09:33:30.842Z"}
+{"level":"info","message":"Swap 9657716c-fed3-451c-8477-01ec605c5a9b scheduled for execution in 41722.007969575214ms","timestamp":"2026-02-01T09:33:30.842Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T09:33:34.787Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T09:33:40.370Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"7gFVZR18...","timestamp":"2026-02-01T09:33:40.372Z"}
+{"amount":100000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 9e7f2278-fb8e-43b4-a1ae-61abfcb61c69","outputMint":"EPjFWdd5","timestamp":"2026-02-01T09:33:40.372Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"7efLDrw2...","timestamp":"2026-02-01T09:33:40.373Z","viewTag":"77e9e933"}
+{"level":"info","message":"Generated stealth output address: 7efLDrw2...","timestamp":"2026-02-01T09:33:40.373Z"}
+{"level":"warn","message":"Jupiter quote failed, using fallback:","timestamp":"2026-02-01T09:33:40.375Z"}
+{"level":"info","message":"Swap 9e7f2278-fb8e-43b4-a1ae-61abfcb61c69 scheduled for execution in 52402.328103341555ms","timestamp":"2026-02-01T09:33:40.375Z"}
+{"level":"info","message":"Executing anonymous swap 504ffd31-0972-4c79-8b23-db362ddd7bc9","timestamp":"2026-02-01T09:34:03.220Z"}
+{"level":"error","message":"Swap 504ffd31-0972-4c79-8b23-db362ddd7bc9 failed:","timestamp":"2026-02-01T09:34:03.226Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T09:44:26.144Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T09:44:26.146Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-01T09:44:26.148Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T09:44:26.148Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T09:44:26.148Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/tokens/popular"},"timestamp":"2026-02-01T09:47:30.081Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/tokens/popular"},"timestamp":"2026-02-01T09:47:38.746Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T09:47:45.230Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T09:47:45.231Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T09:47:45.231Z"}
+{"level":"warn","message":"Jupiter quote failed, using fallback:","timestamp":"2026-02-01T09:47:45.249Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T14:09:21.048Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:09:22.405Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:09:22.408Z"}
+{"level":"info","message":"Environment: production","timestamp":"2026-02-01T14:09:22.410Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:09:22.410Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:09:22.410Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:09:43.969Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:09:43.969Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T14:09:43.970Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"FTB2Gj8p...","timestamp":"2026-02-01T14:09:43.996Z"}
+{"amount":10000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap 321b6f4e-2d4f-451c-8374-d0b6a02f97e6","outputMint":"E2wwdzHg","timestamp":"2026-02-01T14:09:43.996Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"J7p8hEHo...","timestamp":"2026-02-01T14:09:43.997Z","viewTag":"bff6512c"}
+{"level":"info","message":"Generated stealth output address: J7p8hEHo...","timestamp":"2026-02-01T14:09:43.997Z"}
+{"level":"warn","message":"Jupiter quote failed, using fallback:","timestamp":"2026-02-01T14:09:44.036Z"}
+{"level":"info","message":"Swap 321b6f4e-2d4f-451c-8374-d0b6a02f97e6 scheduled for execution in 37247.35922317911ms","timestamp":"2026-02-01T14:09:44.036Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T14:09:53.277Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"62WaEx3F...","timestamp":"2026-02-01T14:09:53.279Z"}
+{"amount":10000000,"hasStealthRecipient":true,"inputMint":"So111111","level":"info","message":"Creating anonymous swap c0ff4c25-2915-4d6b-b3b5-00037bbfd5ac","outputMint":"E2wwdzHg","timestamp":"2026-02-01T14:09:53.279Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"Gjw96cL1...","timestamp":"2026-02-01T14:09:53.280Z","viewTag":"1109c0c3"}
+{"level":"info","message":"Generated stealth output address: Gjw96cL1...","timestamp":"2026-02-01T14:09:53.280Z"}
+{"level":"warn","message":"Jupiter quote failed, using fallback:","timestamp":"2026-02-01T14:09:53.282Z"}
+{"level":"info","message":"Swap c0ff4c25-2915-4d6b-b3b5-00037bbfd5ac scheduled for execution in 40470.80904562301ms","timestamp":"2026-02-01T14:09:53.283Z"}
+{"level":"info","message":"Executing anonymous swap 321b6f4e-2d4f-451c-8374-d0b6a02f97e6","timestamp":"2026-02-01T14:10:21.284Z"}
+{"level":"error","message":"Swap 321b6f4e-2d4f-451c-8374-d0b6a02f97e6 failed:","timestamp":"2026-02-01T14:10:21.292Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:52:40.602Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:52:40.605Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T14:52:40.606Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:52:40.606Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:52:40.606Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/create"},"timestamp":"2026-02-01T14:52:52.374Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/create"},"timestamp":"2026-02-01T14:52:58.243Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T14:53:14.046Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:53:14.047Z"}
+{"level":"warn","message":"Generated new relayer wallet - FUND IT FOR PRODUCTION!","timestamp":"2026-02-01T14:53:14.069Z"}
+{"level":"error","message":"bs58.encode is not a function","path":"/api/v1/relayer/swap","stack":"TypeError: bs58.encode is not a function\n    at RelayerService.initRelayerWallet (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:91:64)\n    at new RelayerService (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:54:31)\n    at getServices (/Users/shaan/Anon coin/server/routes/relayer.js:27:22)\n    at /Users/shaan/Anon coin/server/routes/relayer.js:80:32\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)","timestamp":"2026-02-01T14:53:14.069Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T14:55:31.132Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:55:32.367Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:55:32.370Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T14:55:32.370Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:55:32.370Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:55:32.371Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T14:55:43.003Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:55:43.003Z"}
+{"level":"warn","message":"Generated new relayer wallet - FUND IT FOR PRODUCTION!","timestamp":"2026-02-01T14:55:43.024Z"}
+{"level":"info","message":"Relayer private key (save this!): 2iGhcRReUJagCcryE72pGuDwYpYH8cHE3pkjk8xctpTsx7XUdri5uwvPpCAaYdWBCVdXvs61GRTQBitPnm5oMsui","timestamp":"2026-02-01T14:55:43.025Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T14:55:43.025Z"}
+{"level":"info","message":"Relayer wallet: CySK5vW46HMHFZ2Wr7SmqFnQMj72h6D6JTprXFTFjPy2","timestamp":"2026-02-01T14:55:43.025Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"HhPfckZE...","timestamp":"2026-02-01T14:55:43.031Z"}
+{"level":"error","message":"Invalid stealth meta-address format","path":"/api/v1/relayer/swap","stack":"Error: Invalid stealth meta-address format\n    at StealthAddressService.generateStealthAddress (/Users/shaan/Anon coin/server/services/privacy/StealthAddressService.js:80:13)\n    at RelayerService.createAnonymousSwap (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:133:45)\n    at /Users/shaan/Anon coin/server/routes/relayer.js:90:41\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:280:10)","timestamp":"2026-02-01T14:55:43.031Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T14:55:49.649Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"C5cvcjCH...","timestamp":"2026-02-01T14:55:49.652Z"}
+{"level":"error","message":"Invalid stealth meta-address format","path":"/api/v1/relayer/swap","stack":"Error: Invalid stealth meta-address format\n    at StealthAddressService.generateStealthAddress (/Users/shaan/Anon coin/server/services/privacy/StealthAddressService.js:80:13)\n    at RelayerService.createAnonymousSwap (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:133:45)\n    at /Users/shaan/Anon coin/server/routes/relayer.js:90:41\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:280:10)","timestamp":"2026-02-01T14:55:49.652Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T14:59:33.798Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T14:59:35.029Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T14:59:35.032Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T14:59:35.032Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T14:59:35.032Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T14:59:35.032Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T14:59:48.894Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T14:59:48.895Z"}
+{"level":"warn","message":"Generated new relayer wallet - FUND IT FOR PRODUCTION!","timestamp":"2026-02-01T14:59:48.918Z"}
+{"level":"info","message":"Relayer private key (save this!): 5yt73dnAewnwrKTDHeNbyLYGoyvxQ4hhnuKurx4qEUWdP2mibFVW1HSvFWLR3Ys98YpevPrtqcK7L5ifNcaTScmD","timestamp":"2026-02-01T14:59:48.919Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T14:59:48.919Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T14:59:48.919Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"DkE4ck3m...","timestamp":"2026-02-01T14:59:48.926Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"3HjC9ivy...","timestamp":"2026-02-01T14:59:48.927Z","viewTag":"8f7c2672"}
+{"level":"info","message":"Creating anonymous swap 0c9c0283-6ce1-40f5-9a1b-7cd39b903b3d via relayer","timestamp":"2026-02-01T14:59:48.927Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T15:03:58.755Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T15:03:58.755Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T15:03:58.755Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T15:03:59.143Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T15:04:16.209Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"8ANKDvBe...","timestamp":"2026-02-01T15:04:16.214Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"2CSkwrpZ...","timestamp":"2026-02-01T15:04:16.215Z","viewTag":"aa62fca9"}
+{"level":"info","message":"Creating anonymous swap f3e75413-90ae-4c5d-9b55-867afc3ca543 via relayer","timestamp":"2026-02-01T15:04:16.215Z"}
+{"level":"info","message":"Deposit received for swap f3e75413-90ae-4c5d-9b55-867afc3ca543: deposit_detected","timestamp":"2026-02-01T15:08:26.703Z"}
+{"level":"info","message":"Executing relayer swap f3e75413-90ae-4c5d-9b55-867afc3ca543","timestamp":"2026-02-01T15:08:26.704Z"}
+{"level":"error","message":"Relayer swap f3e75413-90ae-4c5d-9b55-867afc3ca543 failed:","timestamp":"2026-02-01T15:08:27.367Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T15:17:18.623Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T15:17:18.625Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T15:17:18.626Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T15:17:18.626Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T15:17:18.627Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T15:53:07.505Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T15:53:07.507Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T15:53:07.508Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T15:53:07.508Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T15:53:07.508Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T15:56:05.444Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T15:56:05.450Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T15:56:05.450Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T15:56:05.450Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T15:56:05.451Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T15:56:46.170Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T15:56:51.370Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T15:56:52.525Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T15:56:52.528Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T15:56:52.528Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T15:56:52.528Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T15:56:52.528Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T15:57:27.295Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T15:57:32.580Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T15:57:33.741Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T15:57:33.743Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T15:57:33.743Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T15:57:33.744Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T15:57:33.744Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T16:01:48.711Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T16:01:48.714Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T16:01:48.714Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T16:01:48.714Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T16:01:48.714Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T16:02:18.755Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T16:02:25.126Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T16:02:26.287Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T16:02:26.289Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T16:02:26.290Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T16:02:26.290Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T16:02:26.290Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T16:03:10.974Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T16:03:10.974Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T16:03:10.995Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T16:03:10.995Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/execute-now"},"timestamp":"2026-02-01T16:03:20.706Z"}
+{"level":"info","message":"Executing immediate swap: 1000000 So11111111111111111111111111111111111111112 → EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v","timestamp":"2026-02-01T16:03:20.706Z"}
+{"level":"info","message":"Output stealth address: 2CSkwrpZz2W2x2h9ujjmnNSSks4dvcd9Mg354nKUbHAU","timestamp":"2026-02-01T16:03:21.179Z"}
+{"level":"info","message":"Got quote: 1000000 → 101370","timestamp":"2026-02-01T16:03:21.655Z"}
+{"level":"info","message":"Got swap transaction, signing with relayer wallet...","timestamp":"2026-02-01T16:03:22.181Z"}
+{"level":"info","message":"Trying legacy transaction format...","timestamp":"2026-02-01T16:03:22.523Z"}
+{"level":"error","message":"Versioned messages must be deserialized with VersionedMessage.deserialize()","path":"/api/v1/relayer/execute-now","stack":"Error: Versioned messages must be deserialized with VersionedMessage.deserialize()\n    at Message.from (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:874:13)\n    at Transaction.from (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:1929:41)\n    at RelayerService.executeSwapNow (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:614:30)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/relayer.js:161:20","timestamp":"2026-02-01T16:03:22.525Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T16:03:44.439Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T16:03:45.593Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T16:03:45.595Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T16:03:45.596Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T16:03:45.596Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T16:03:45.596Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/execute-now"},"timestamp":"2026-02-01T16:03:58.930Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T16:03:58.931Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T16:03:58.962Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T16:03:58.962Z"}
+{"level":"info","message":"Executing immediate swap: 1000000 So11111111111111111111111111111111111111112 → EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v","timestamp":"2026-02-01T16:03:58.962Z"}
+{"level":"info","message":"Output stealth address: 2CSkwrpZz2W2x2h9ujjmnNSSks4dvcd9Mg354nKUbHAU","timestamp":"2026-02-01T16:03:59.334Z"}
+{"level":"info","message":"Got quote: 1000000 → 101351","timestamp":"2026-02-01T16:03:59.669Z"}
+{"level":"info","message":"Got swap transaction, signing with relayer wallet...","timestamp":"2026-02-01T16:04:00.106Z"}
+{"level":"info","message":"Deserialized versioned transaction, signing...","timestamp":"2026-02-01T16:04:00.107Z"}
+{"level":"info","message":"Signed, sending to network...","timestamp":"2026-02-01T16:04:00.113Z"}
+{"level":"error","message":"Simulation failed. \nMessage: Transaction simulation failed: Error processing Instruction 2: custom program error: 0x1. \nLogs: \n[\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: InitializeAccount3\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1382476 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20815 of 1399850 compute units\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success\",\n  \"Program 11111111111111111111111111111111 invoke [1]\",\n  \"Transfer: insufficient lamports 255720, need 1000000\",\n  \"Program 11111111111111111111111111111111 failed: custom program error: 0x1\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.","path":"/api/v1/relayer/execute-now","stack":"Error: Simulation failed. \nMessage: Transaction simulation failed: Error processing Instruction 2: custom program error: 0x1. \nLogs: \n[\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: InitializeAccount3\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1382476 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20815 of 1399850 compute units\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success\",\n  \"Program 11111111111111111111111111111111 invoke [1]\",\n  \"Transfer: insufficient lamports 255720, need 1000000\",\n  \"Program 11111111111111111111111111111111 failed: custom program error: 0x1\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.\n    at Connection.sendEncodedTransaction (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:8208:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Connection.sendRawTransaction (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:8173:20)\n    at async RelayerService.executeSwapNow (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:611:17)\n    at async /Users/shaan/Anon coin/server/routes/relayer.js:161:20","timestamp":"2026-02-01T16:04:00.453Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T16:04:03.085Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/execute-now"},"timestamp":"2026-02-01T16:04:46.932Z"}
+{"level":"info","message":"Executing immediate swap: 1000000 So11111111111111111111111111111111111111112 → EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v","timestamp":"2026-02-01T16:04:46.932Z"}
+{"level":"info","message":"Output stealth address: 2CSkwrpZz2W2x2h9ujjmnNSSks4dvcd9Mg354nKUbHAU","timestamp":"2026-02-01T16:04:47.445Z"}
+{"level":"info","message":"Got quote: 1000000 → 101444","timestamp":"2026-02-01T16:04:47.849Z"}
+{"level":"info","message":"Got swap transaction, signing with relayer wallet...","timestamp":"2026-02-01T16:04:48.155Z"}
+{"level":"info","message":"Deserialized versioned transaction, signing...","timestamp":"2026-02-01T16:04:48.156Z"}
+{"level":"info","message":"Signed, sending to network...","timestamp":"2026-02-01T16:04:48.159Z"}
+{"level":"error","message":"Simulation failed. \nMessage: Transaction simulation failed: Error processing Instruction 2: custom program error: 0x1. \nLogs: \n[\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: InitializeAccount3\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1382476 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20815 of 1399850 compute units\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success\",\n  \"Program 11111111111111111111111111111111 invoke [1]\",\n  \"Transfer: insufficient lamports 255720, need 1000000\",\n  \"Program 11111111111111111111111111111111 failed: custom program error: 0x1\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.","path":"/api/v1/relayer/execute-now","stack":"Error: Simulation failed. \nMessage: Transaction simulation failed: Error processing Instruction 2: custom program error: 0x1. \nLogs: \n[\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: InitializeAccount3\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 3158 of 1382476 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 20815 of 1399850 compute units\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success\",\n  \"Program 11111111111111111111111111111111 invoke [1]\",\n  \"Transfer: insufficient lamports 255720, need 1000000\",\n  \"Program 11111111111111111111111111111111 failed: custom program error: 0x1\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.\n    at Connection.sendEncodedTransaction (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:8208:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Connection.sendRawTransaction (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:8173:20)\n    at async RelayerService.executeSwapNow (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:611:17)\n    at async /Users/shaan/Anon coin/server/routes/relayer.js:161:20","timestamp":"2026-02-01T16:04:48.439Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/anon-swap"},"timestamp":"2026-02-01T16:05:31.706Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/favicon.ico"},"timestamp":"2026-02-01T16:05:32.054Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/execute-now"},"timestamp":"2026-02-01T16:11:56.196Z"}
+{"level":"info","message":"Executing immediate swap: 2000000 So11111111111111111111111111111111111111112 → EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v","timestamp":"2026-02-01T16:11:56.197Z"}
+{"level":"info","message":"Output stealth address: 2CSkwrpZz2W2x2h9ujjmnNSSks4dvcd9Mg354nKUbHAU","timestamp":"2026-02-01T16:11:56.637Z"}
+{"level":"info","message":"Got quote: 2000000 → 203444","timestamp":"2026-02-01T16:11:57.079Z"}
+{"level":"info","message":"Got swap transaction, signing with relayer wallet...","timestamp":"2026-02-01T16:11:57.446Z"}
+{"level":"info","message":"Deserialized versioned transaction, signing...","timestamp":"2026-02-01T16:11:57.447Z"}
+{"level":"info","message":"Signed, sending to network...","timestamp":"2026-02-01T16:11:57.450Z"}
+{"level":"error","message":"Simulation failed. \nMessage: Transaction simulation failed: Error processing Instruction 5: invalid account data for instruction. \nLogs: \n[\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 invoke [2]\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 consumed 187 of 1254665 compute units\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: Transfer\",\n  \"Program log: Error: InvalidAccountData\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2800 of 1251629 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA failed: invalid account data for instruction\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 consumed 106560 of 1355389 compute units\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 failed: invalid account data for instruction\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.","path":"/api/v1/relayer/execute-now","stack":"Error: Simulation failed. \nMessage: Transaction simulation failed: Error processing Instruction 5: invalid account data for instruction. \nLogs: \n[\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 invoke [2]\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 consumed 187 of 1254665 compute units\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: Transfer\",\n  \"Program log: Error: InvalidAccountData\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 2800 of 1251629 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA failed: invalid account data for instruction\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 consumed 106560 of 1355389 compute units\",\n  \"Program JUP6LkbZbjS1jKKwapdHNy74zcZ3tLUZoi5QNyVTaV4 failed: invalid account data for instruction\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.\n    at Connection.sendEncodedTransaction (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:8208:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async Connection.sendRawTransaction (/Users/shaan/Anon coin/node_modules/@solana/web3.js/lib/index.cjs.js:8173:20)\n    at async RelayerService.executeSwapNow (/Users/shaan/Anon coin/server/services/swap/RelayerService.js:611:17)\n    at async /Users/shaan/Anon coin/server/routes/relayer.js:161:20","timestamp":"2026-02-01T16:11:57.729Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T16:14:29.459Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T16:14:30.625Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T16:14:30.627Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T16:14:30.628Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T16:14:30.628Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T16:14:30.628Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/execute-now"},"timestamp":"2026-02-01T16:14:41.041Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T16:14:41.042Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T16:14:41.072Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T16:14:41.072Z"}
+{"level":"info","message":"Executing immediate swap: 2000000 So11111111111111111111111111111111111111112 → E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T16:14:41.072Z"}
+{"level":"info","message":"Output stealth address: 2CSkwrpZz2W2x2h9ujjmnNSSks4dvcd9Mg354nKUbHAU","timestamp":"2026-02-01T16:14:41.583Z"}
+{"level":"info","message":"Got quote: 2000000 → 68793887131795","timestamp":"2026-02-01T16:14:41.910Z"}
+{"level":"info","message":"Got swap transaction, signing with relayer wallet...","timestamp":"2026-02-01T16:14:42.168Z"}
+{"level":"info","message":"Deserialized versioned transaction, signing...","timestamp":"2026-02-01T16:14:42.170Z"}
+{"level":"info","message":"Signed, sending to network...","timestamp":"2026-02-01T16:14:42.175Z"}
+{"level":"info","message":"Transaction sent: 452brj2LCMMoUkTGfonGtgzvHFsEKCR5JvswWMF22JS1BAfjTCAa9naUHQajTrFAERfSijypK3Pop4oNM6jAZNS","timestamp":"2026-02-01T16:14:42.441Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T16:14:43.048Z"}
+{"level":"info","message":"✅ REAL ANONYMOUS SWAP COMPLETED!","timestamp":"2026-02-01T16:14:44.617Z"}
+{"level":"info","message":"   Transaction: 452brj2LCMMoUkTGfonGtgzvHFsEKCR5JvswWMF22JS1BAfjTCAa9naUHQajTrFAERfSijypK3Pop4oNM6jAZNS","timestamp":"2026-02-01T16:14:44.618Z"}
+{"level":"info","message":"   Output to stealth: 2CSkwrpZz2W2x2h9ujjmnNSSks4dvcd9Mg354nKUbHAU","timestamp":"2026-02-01T16:14:44.618Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T16:27:08.033Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T16:27:09.347Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T16:27:09.350Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T16:27:09.350Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T16:27:09.350Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T16:27:09.350Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T16:27:24.670Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T16:27:24.671Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T16:27:24.701Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T16:27:24.701Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"6m68fXqN...","timestamp":"2026-02-01T16:27:24.709Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"ChffA1Pm...","timestamp":"2026-02-01T16:27:24.711Z","viewTag":"12a537d0"}
+{"level":"info","message":"Creating anonymous swap 28bc344f-5add-47fc-931c-8525aee692bc via relayer","timestamp":"2026-02-01T16:27:24.711Z"}
+{"level":"info","message":"Deposit received for swap 28bc344f-5add-47fc-931c-8525aee692bc: deposit_detected","timestamp":"2026-02-01T16:27:30.499Z"}
+{"level":"info","message":"Executing relayer swap 28bc344f-5add-47fc-931c-8525aee692bc","timestamp":"2026-02-01T16:28:21.728Z"}
+{"level":"error","message":"Relayer swap 28bc344f-5add-47fc-931c-8525aee692bc failed:","timestamp":"2026-02-01T16:28:22.516Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T17:03:22.278Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T17:03:22.280Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T17:03:22.281Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T17:03:22.281Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T17:03:22.281Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T17:03:36.766Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T17:25:20.358Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T17:25:20.358Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T17:25:20.382Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T17:25:20.382Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"BDJsqafB...","timestamp":"2026-02-01T17:25:20.389Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"Ha4EFzvd...","timestamp":"2026-02-01T17:25:20.390Z","viewTag":"facaf069"}
+{"level":"info","message":"Creating anonymous swap d12d42da-dca7-4d72-9439-2d178c5e56fb via relayer","timestamp":"2026-02-01T17:25:20.390Z"}
+{"level":"info","message":"Deposit received for swap d12d42da-dca7-4d72-9439-2d178c5e56fb: deposit_detected","timestamp":"2026-02-01T17:25:25.885Z"}
+{"level":"info","message":"Executing relayer swap d12d42da-dca7-4d72-9439-2d178c5e56fb","timestamp":"2026-02-01T17:25:25.885Z"}
+{"level":"info","message":"✅ Relayer swap completed: 4oRFx3jtwipvakisnYdm4toeWxRKmqaxpuzH19A794kBwCHh9mVJwej7T2FsaWh4j1CFvkMCLUX32zwPN6S6vVcm","timestamp":"2026-02-01T17:25:28.622Z"}
+{"level":"info","message":"   Tokens now in relayer wallet","timestamp":"2026-02-01T17:25:28.622Z"}
+{"level":"info","message":"   User wallet NOT in this transaction!","timestamp":"2026-02-01T17:25:28.622Z"}
+{"level":"warn","message":"Transfer to stealth failed: Simulation failed. \nMessage: Transaction simulation failed: Transaction results in an account (0) with insufficient funds for rent. \nLogs: \n[\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [2]\",\n  \"Program log: Instruction: InitializeAccount3\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4188 of 382584 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL consumed 21908 of 400000 compute units\",\n  \"Program ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL success\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA invoke [1]\",\n  \"Program log: Instruction: Transfer\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA consumed 4644 of 378092 compute units\",\n  \"Program TokenkegQfeZyiNwAJbNbGKPFXCWuBvf9Ss623VQ5DA success\"\n]. \nCatch the `SendTransactionError` and call `getLogs()` on it for full details.","timestamp":"2026-02-01T17:25:29.507Z"}
+{"level":"info","message":"Tokens remain in relayer wallet - user can claim manually","timestamp":"2026-02-01T17:25:29.507Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T17:28:29.562Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T17:28:35.799Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T17:28:35.801Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T17:28:35.801Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T17:28:35.801Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T17:28:35.802Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T17:29:52.153Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T17:29:52.154Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T17:29:52.155Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T17:29:52.608Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T17:29:55.441Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T17:29:55.805Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T17:30:09.732Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T17:30:09.732Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T17:30:09.767Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T17:30:09.768Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"4z96G4jU...","timestamp":"2026-02-01T17:30:09.777Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"88sR3Zvn...","timestamp":"2026-02-01T17:30:09.778Z","viewTag":"208303ae"}
+{"level":"info","message":"Creating anonymous swap 0aa757ae-6b75-4d9f-ab35-af6eea59b0ba via relayer","timestamp":"2026-02-01T17:30:09.778Z"}
+{"level":"info","message":"Deposit received for swap 0aa757ae-6b75-4d9f-ab35-af6eea59b0ba: deposit_detected","timestamp":"2026-02-01T17:30:15.626Z"}
+{"level":"info","message":"Executing relayer swap 0aa757ae-6b75-4d9f-ab35-af6eea59b0ba","timestamp":"2026-02-01T17:30:40.919Z"}
+{"level":"error","message":"Relayer swap 0aa757ae-6b75-4d9f-ab35-af6eea59b0ba failed:","timestamp":"2026-02-01T17:30:42.125Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T17:35:38.586Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T17:35:38.589Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T17:35:38.589Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T17:35:38.589Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T17:35:38.590Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/execute-now"},"timestamp":"2026-02-01T17:35:51.031Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T17:35:51.032Z"}
+{"level":"info","message":"RelayerService initialized","timestamp":"2026-02-01T17:35:51.062Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T17:35:51.062Z"}
+{"level":"info","message":"Executing immediate swap: 2000000 So11111111111111111111111111111111111111112 → E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T17:35:51.062Z"}
+{"level":"info","message":"Output stealth address: 88sR3ZvnWz2sQURxPCA93Gi2aQAnEuFYEhSUbpEb4xbu","timestamp":"2026-02-01T17:35:51.905Z"}
+{"level":"info","message":"Got quote: 2000000 → 68780494405345","timestamp":"2026-02-01T17:35:52.306Z"}
+{"level":"info","message":"Got swap transaction, signing with relayer wallet...","timestamp":"2026-02-01T17:35:52.631Z"}
+{"level":"info","message":"Deserialized versioned transaction, signing...","timestamp":"2026-02-01T17:35:52.633Z"}
+{"level":"info","message":"Signed, sending to network...","timestamp":"2026-02-01T17:35:52.639Z"}
+{"level":"info","message":"Transaction sent: 58tEVgbZcjPKHYC7EPWPwwEcXpi38u1GHkm1DePkerHE8ZLYdgXtt9jYmEPkwYhKv3LXta1ZoARCWLk2E981GpG","timestamp":"2026-02-01T17:35:52.930Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T17:35:53.236Z"}
+{"level":"info","message":"✅ REAL ANONYMOUS SWAP COMPLETED!","timestamp":"2026-02-01T17:35:54.266Z"}
+{"level":"info","message":"   Transaction: 58tEVgbZcjPKHYC7EPWPwwEcXpi38u1GHkm1DePkerHE8ZLYdgXtt9jYmEPkwYhKv3LXta1ZoARCWLk2E981GpG","timestamp":"2026-02-01T17:35:54.266Z"}
+{"level":"info","message":"   Output to stealth: 88sR3ZvnWz2sQURxPCA93Gi2aQAnEuFYEhSUbpEb4xbu","timestamp":"2026-02-01T17:35:54.266Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T18:04:26.115Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:04:27.412Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T18:04:27.414Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T18:04:27.414Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T18:04:27.415Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T18:04:27.415Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T18:05:40.421Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T18:05:50.948Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T18:05:50.948Z"}
+{"level":"info","message":"Loaded relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T18:05:50.969Z"}
+{"level":"info","message":"ProductionRelayerService initialized","timestamp":"2026-02-01T18:05:50.969Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T18:05:50.969Z"}
+{"level":"info","message":"Deposit monitoring started (5s interval)","timestamp":"2026-02-01T18:05:50.969Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/create"},"timestamp":"2026-02-01T18:06:14.689Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"F1Sqn8Ef...","timestamp":"2026-02-01T18:06:14.696Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"4x13aa3Z...","timestamp":"2026-02-01T18:06:14.697Z","viewTag":"e211d94a"}
+{"level":"info","message":"Created swap 4d2bf546-082c-4d6c-b30a-eb5df623c897: 10000000 lamports → E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T18:06:14.697Z"}
+{"level":"info","message":"Stealth output: 4x13aa3ZT3sTHBSEQumfJ3tqkpHtqatvn886mtYEPeJ9","timestamp":"2026-02-01T18:06:14.697Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:08:57.685Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T18:08:57.687Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T18:08:57.688Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T18:08:57.688Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T18:08:57.688Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T18:10:46.995Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T18:10:50.668Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T18:10:50.670Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:11:18.409Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T18:11:18.409Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T18:11:18.411Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:11:18.855Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:11:19.939Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:11:20.192Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:11:21.353Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:11:21.606Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T18:11:22.895Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"BfiSC7Pb...","timestamp":"2026-02-01T18:11:22.939Z"}
+{"amount":100000000000000,"hasStealthRecipient":true,"inputMint":"E2wwdzHg","level":"info","message":"Creating anonymous swap 851e6c36-2bcd-473e-9801-aa581c700fb6","outputMint":"So111111","timestamp":"2026-02-01T18:11:22.940Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"5C5t35N2...","timestamp":"2026-02-01T18:11:22.941Z","viewTag":"61455638"}
+{"level":"info","message":"Generated stealth output address: 5C5t35N2...","timestamp":"2026-02-01T18:11:22.941Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:11:23.196Z"}
+{"level":"info","message":"Swap 851e6c36-2bcd-473e-9801-aa581c700fb6 scheduled for execution in 35457.197236286505ms","timestamp":"2026-02-01T18:11:23.197Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:11:57.575Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:11:57.907Z"}
+{"level":"info","message":"Executing anonymous swap 851e6c36-2bcd-473e-9801-aa581c700fb6","timestamp":"2026-02-01T18:11:58.655Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/anonswap/stealth-swap"},"timestamp":"2026-02-01T18:11:59.332Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"G8B9Ggdt...","timestamp":"2026-02-01T18:11:59.338Z"}
+{"amount":1000000000000,"hasStealthRecipient":true,"inputMint":"E2wwdzHg","level":"info","message":"Creating anonymous swap f1ed0a8f-1805-4654-b5f6-83fc1e0c8304","outputMint":"So111111","timestamp":"2026-02-01T18:11:59.338Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"79dfp8nK...","timestamp":"2026-02-01T18:11:59.340Z","viewTag":"aa67a0ca"}
+{"level":"info","message":"Generated stealth output address: 79dfp8nK...","timestamp":"2026-02-01T18:11:59.340Z"}
+{"level":"info","message":"Jupiter swap transaction received","timestamp":"2026-02-01T18:11:59.549Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:11:59.652Z"}
+{"level":"info","message":"Swap f1ed0a8f-1805-4654-b5f6-83fc1e0c8304 scheduled for execution in 44861.621769015735ms","timestamp":"2026-02-01T18:11:59.652Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T18:12:10.739Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T18:12:10.740Z"}
+{"level":"info","message":"Loaded relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T18:12:10.745Z"}
+{"level":"info","message":"ProductionRelayerService initialized","timestamp":"2026-02-01T18:12:10.745Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T18:12:10.745Z"}
+{"level":"info","message":"Deposit monitoring started (5s interval)","timestamp":"2026-02-01T18:12:10.746Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"7StBG3ZG...","timestamp":"2026-02-01T18:12:10.754Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"DoffPB13...","timestamp":"2026-02-01T18:12:10.755Z","viewTag":"0adffd50"}
+{"level":"info","message":"Created swap 6737fbbe-0b70-4f08-a1a6-c1d81944663d: 1000000000000 lamports → So11111111111111111111111111111111111111112","timestamp":"2026-02-01T18:12:10.755Z"}
+{"level":"info","message":"Stealth output: DoffPB13r3mtTShSZ95y6EB27oBKK8XMMK8MyCW23tap","timestamp":"2026-02-01T18:12:10.756Z"}
+{"level":"info","message":"Executing anonymous swap f1ed0a8f-1805-4654-b5f6-83fc1e0c8304","timestamp":"2026-02-01T18:12:44.516Z"}
+{"level":"info","message":"Jupiter swap transaction received","timestamp":"2026-02-01T18:12:45.538Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T18:19:04.401Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/create"},"timestamp":"2026-02-01T18:19:14.658Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"8xhnZ8Qt...","timestamp":"2026-02-01T18:19:14.662Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"6Z4gmv9x...","timestamp":"2026-02-01T18:19:14.662Z","viewTag":"b61e8a14"}
+{"level":"info","message":"Created swap 21a3f244-dc83-416c-bc29-5167ad847438: 10000000 lamports → E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T18:19:14.662Z"}
+{"level":"info","message":"Stealth output: 6Z4gmv9xwjnzr4Knz26s1y6KBJGzK1ymJ7c4P3kFjG7M","timestamp":"2026-02-01T18:19:14.662Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/anon-swap"},"timestamp":"2026-02-01T18:20:25.625Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:21:35.234Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:21:35.718Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T18:21:41.825Z"}
+{"level":"error","message":"Minimum deposit is 0.005 SOL","path":"/api/v1/relayer/swap","stack":"Error: Minimum deposit is 0.005 SOL\n    at ProductionRelayerService.createAnonymousSwap (/Users/shaan/Anon coin/server/services/swap/ProductionRelayerService.js:108:13)\n    at /Users/shaan/Anon coin/server/routes/productionRelayer.js:109:41\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:280:10)\n    at router.handle (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:175:3)","timestamp":"2026-02-01T18:21:41.826Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:21:46.390Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:21:46.719Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T18:21:47.149Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"7xfwuM7n...","timestamp":"2026-02-01T18:21:47.157Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"7aEr5QBZ...","timestamp":"2026-02-01T18:21:47.159Z","viewTag":"a711fc9e"}
+{"level":"info","message":"Created swap a5fbd9df-b9f0-47b1-a953-2a94ad67b271: 5000000 lamports → E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T18:21:47.160Z"}
+{"level":"info","message":"Stealth output: 7aEr5QBZfwHu7vHoGWWKbzzhM1pnRqJHZeLtwibLUUzU","timestamp":"2026-02-01T18:21:47.160Z"}
+{"level":"info","message":"Deposit detected for swap a5fbd9df-b9f0-47b1-a953-2a94ad67b271: 5000000 lamports","timestamp":"2026-02-01T18:23:21.852Z"}
+{"level":"info","message":"Transaction: 5Vg8LVkhrMc6x4HgqFdMBxPjhAA8C4ScYtVHjfFQuToXLLN6WdwH4G4y9c2pCzs4iE3XCX6whwB28CogTsnnf3ZR","timestamp":"2026-02-01T18:23:21.852Z"}
+{"level":"info","message":"Executing swap a5fbd9df-b9f0-47b1-a953-2a94ad67b271...","timestamp":"2026-02-01T18:23:21.853Z"}
+{"level":"info","message":"Got quote: 2500000 → 85963044631180","timestamp":"2026-02-01T18:23:22.220Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/status/a5fbd9df-b9f0-47b1-a953-2a94ad67b271"},"timestamp":"2026-02-01T18:23:23.642Z"}
+{"level":"info","message":"✅ Swap completed: 2xAD8XnpJAnHi1GPzrQjoB9gsXXpBuREpgeoq2AfrBd3o3dyJTvnsw7sZDsCc6vWKhv9nkRxc2iq8GY1ctjC6o87","timestamp":"2026-02-01T18:23:25.650Z"}
+{"level":"info","message":"✅ Transfer to stealth: 5J7TR6UGKvCuGgwsFov5h7JB59ga3LrVQdGvgfqzjBVCuZpEW7PXaFCU6FhUU6iGXMwj6QqdZvRzkK9gasEnrFU","timestamp":"2026-02-01T18:23:27.766Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/status/a5fbd9df-b9f0-47b1-a953-2a94ad67b271"},"timestamp":"2026-02-01T18:23:28.652Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T18:27:19.565Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T18:27:24.902Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T18:27:42.469Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:27:43.729Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T18:27:43.731Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T18:27:43.731Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T18:27:43.732Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T18:27:43.732Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T18:27:55.268Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T18:27:55.268Z"}
+{"level":"info","message":"Loaded relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T18:27:55.300Z"}
+{"level":"info","message":"ProductionRelayerService initialized","timestamp":"2026-02-01T18:27:55.300Z"}
+{"level":"info","message":"Relayer wallet: 3JP7VYq4iqtZH5tx6KsVGCvckFQtUgXipo5bnQr7yQPZ","timestamp":"2026-02-01T18:27:55.301Z"}
+{"level":"info","message":"Deposit monitoring started (5s interval)","timestamp":"2026-02-01T18:27:55.301Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/info"},"timestamp":"2026-02-01T18:27:58.100Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:28:38.272Z"}
+{"level":"info","message":"StealthAddressService initialized - REAL cryptographic stealth addresses","timestamp":"2026-02-01T18:28:38.273Z"}
+{"level":"info","message":"RealAnonymousSwapService initialized","timestamp":"2026-02-01T18:28:38.274Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:28:38.641Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:28:40.137Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:28:40.408Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:28:43.809Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:28:44.055Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:29:07.758Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:29:08.083Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/relayer/swap"},"timestamp":"2026-02-01T18:29:10.272Z"}
+{"level":"info","message":"Generated stealth meta-address","spendingPubKey":"D5546WMH...","timestamp":"2026-02-01T18:29:10.286Z"}
+{"level":"info","message":"Generated stealth address","stealthAddress":"CxZoYvHx...","timestamp":"2026-02-01T18:29:10.288Z","viewTag":"fa9afa18"}
+{"level":"info","message":"Created swap fc03b832-2ae3-4f23-a550-94d06c578228: 5000000 lamports → E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","timestamp":"2026-02-01T18:29:10.288Z"}
+{"level":"info","message":"Stealth output: CxZoYvHxPq4FMzEwwJcWkdm9AJpf3EB3gwPQi7K8iUnw","timestamp":"2026-02-01T18:29:10.288Z"}
+{"level":"info","message":"Deposit detected for swap fc03b832-2ae3-4f23-a550-94d06c578228: 5000000 lamports","timestamp":"2026-02-01T18:29:41.406Z"}
+{"level":"info","message":"Transaction: 4rETN1PQLFhbpQwGYLWVarcPRmhLmiF6b4S3akU7hUSFyyjkRJkJ1oCSNgoA3iK3exCH4rkAkDTiLvTSBjvAofi4","timestamp":"2026-02-01T18:29:41.406Z"}
+{"level":"info","message":"Executing swap fc03b832-2ae3-4f23-a550-94d06c578228...","timestamp":"2026-02-01T18:29:41.407Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/status/fc03b832-2ae3-4f23-a550-94d06c578228"},"timestamp":"2026-02-01T18:29:41.631Z"}
+{"level":"info","message":"Got quote: 4900000 → 168447054469237","timestamp":"2026-02-01T18:29:41.729Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/status/fc03b832-2ae3-4f23-a550-94d06c578228"},"timestamp":"2026-02-01T18:29:46.815Z"}
+{"level":"info","message":"✅ Swap completed: 5xTPTiPPC9MveoJbTFkMiqVzvVKgtT1Gy6GrkFs9qCPzX1f8QwDN2yt8pySZTbPn2ycboQhWjPfzxPuTXjftxD2H","timestamp":"2026-02-01T18:29:48.029Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/status/fc03b832-2ae3-4f23-a550-94d06c578228"},"timestamp":"2026-02-01T18:29:52.818Z"}
+{"level":"info","message":"✅ Transfer to stealth: 4kpSR5akY719kEjRgQGTUqF63pQGGnG8XQ7Tzcp9M2DJxkE4LBvvrtNXrXF7PbMpP1BA55ZQgqHtk7cnnAo75BEs","timestamp":"2026-02-01T18:29:53.430Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/relayer/status/fc03b832-2ae3-4f23-a550-94d06c578228"},"timestamp":"2026-02-01T18:29:58.819Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/anonswap/quote"},"timestamp":"2026-02-01T18:32:44.753Z"}
+{"level":"info","message":"Jupiter quote received successfully","timestamp":"2026-02-01T18:32:45.139Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T18:37:43.245Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:37:43.245Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"Test Token","symbol":"TEST","timestamp":"2026-02-01T18:37:43.245Z"}
+{"level":"warn","message":"Could not fetch token image, proceeding without it","timestamp":"2026-02-01T18:37:43.316Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Either files or imageUrl is required","requestId":"18ef9c30-ff9d-11f0-a631-03ed5de80ef1","status":false},"status":400,"timestamp":"2026-02-01T18:37:44.251Z"}
+{"level":"error","message":"Bad request: Either files or imageUrl is required","path":"/api/v1/token/deploy","stack":"Error: Bad request: Either files or imageUrl is required\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T18:37:44.251Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T18:37:53.692Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHTEST","timestamp":"2026-02-01T18:37:53.692Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"tickerSymbol, tickerName, description are required","requestId":"1f2a4e60-ff9d-11f0-8699-1596dada9d5b","status":false},"status":400,"timestamp":"2026-02-01T18:37:55.032Z"}
+{"level":"error","message":"Bad request: tickerSymbol, tickerName, description are required","path":"/api/v1/token/deploy","stack":"Error: Bad request: tickerSymbol, tickerName, description are required\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:364:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:195:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T18:37:55.034Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T18:38:01.277Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowTest","symbol":"SHTEST","timestamp":"2026-02-01T18:38:01.278Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"J6omzVQjoVmGYL3kPdBwWSq4ZNT794TxnRSEmWDBdoge","timestamp":"2026-02-01T18:38:04.796Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T18:38:04.796Z"}
+{"level":"info","message":"✅ Transaction broadcast successful!","timestamp":"2026-02-01T18:38:05.294Z","txSignature":"4jinZmfx8QDYn9ave41hfpvc3YrUBqABp3QhECFj8f9VHBssPaUvsy1enTMGmKRHF6cnRFZ3basRxBrnKkAXPuJu"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T18:51:18.623Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:51:19.914Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T18:51:19.917Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T18:51:19.917Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T18:51:19.917Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T18:51:19.917Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T18:51:30.711Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:51:30.712Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ShadowFi Test 3","symbol":"SFT3","timestamp":"2026-02-01T18:51:30.712Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"05f76e30-ff9f-11f0-9770-ed7f1b19d427","status":false},"status":400,"timestamp":"2026-02-01T18:51:31.444Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:396:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:227:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T18:51:31.445Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T18:55:03.009Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T18:55:41.657Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:55:42.903Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T18:55:42.906Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T18:55:42.906Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T18:55:42.906Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T18:55:42.906Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T18:58:08.360Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T18:59:44.695Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T18:59:44.695Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ewtr","symbol":"DFG","timestamp":"2026-02-01T18:59:44.695Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"2c6c4a30-ffa0-11f0-8699-1596dada9d5b","status":false},"status":400,"timestamp":"2026-02-01T18:59:45.713Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:397:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:228:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T18:59:45.714Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T19:01:07.309Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:01:08.562Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T19:01:08.565Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T19:01:08.565Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T19:01:08.565Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T19:01:08.565Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T19:01:24.693Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:01:24.694Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"Test","symbol":"TST","timestamp":"2026-02-01T19:01:24.694Z"}
+{"level":"warn","message":"Could not fetch token image, proceeding without it","timestamp":"2026-02-01T19:01:25.531Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"688c97e0-ffa0-11f0-a19f-e9ec2637b091","status":false},"status":400,"timestamp":"2026-02-01T19:01:26.315Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:397:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:228:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T19:01:26.316Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T19:01:31.917Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"Test","symbol":"TST","timestamp":"2026-02-01T19:01:31.917Z"}
+{"level":"warn","message":"Could not fetch token image, proceeding without it","timestamp":"2026-02-01T19:01:32.496Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"6ca4df40-ffa0-11f0-9a77-25fda2a59909","status":false},"status":400,"timestamp":"2026-02-01T19:01:33.186Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:397:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:228:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T19:01:33.186Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T19:01:57.025Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ewtr","symbol":"DFG","timestamp":"2026-02-01T19:01:57.025Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"7b4030e0-ffa0-11f0-8699-1596dada9d5b","status":false},"status":400,"timestamp":"2026-02-01T19:01:57.931Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:397:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:228:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T19:01:57.932Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/deploy"},"timestamp":"2026-02-01T19:02:33.640Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"ewtr","symbol":"DFG","timestamp":"2026-02-01T19:02:33.640Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"91129610-ffa0-11f0-b91a-4197260224d4","status":false},"status":400,"timestamp":"2026-02-01T19:02:34.549Z"}
+{"level":"error","message":"Bad request: Daily limit reached for create coin","path":"/api/v1/token/deploy","stack":"Error: Bad request: Daily limit reached for create coin\n    at AnoncoinService.handleApiError (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:397:16)\n    at AnoncoinService.deployToken (/Users/shaan/Anon coin/server/services/anoncoin/AnoncoinService.js:228:18)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:38:20","timestamp":"2026-02-01T19:02:34.550Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:16:05.412Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:16:10.673Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:16:36.059Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:17:05.656Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:17:35.600Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:18:06.175Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:18:35.540Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:19:05.616Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:19:36.041Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:20:05.604Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:20:35.489Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:21:05.637Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:21:35.580Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:22:06.132Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:22:35.850Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:23:05.715Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:23:35.949Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:24:06.226Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:24:36.634Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:25:05.446Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:25:35.279Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:26:05.615Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:26:35.680Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:27:05.333Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:27:35.677Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:28:05.537Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:28:35.621Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:29:05.715Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:29:35.965Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:30:05.825Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:30:35.631Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:30:41.226Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:31:10.927Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:31:40.791Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:32:11.114Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:32:41.139Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:33:11.012Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:33:40.965Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:34:10.991Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:34:41.197Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:35:10.883Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:35:41.391Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:36:10.790Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:36:41.131Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:37:10.785Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T19:37:34.694Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:37:35.977Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T19:37:35.983Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T19:37:35.983Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T19:37:35.983Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T19:37:35.983Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T19:37:40.983Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:44:11.246Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:44:11.247Z"}
+{"level":"error","message":"bs58.decode is not a function","path":"/api/v1/token/prebuy","stack":"TypeError: bs58.decode is not a function\n    at new BundledLaunchService (/Users/shaan/Anon coin/server/services/launch/BundledLaunchService.js:30:54)\n    at getBundledLaunchService (/Users/shaan/Anon coin/server/routes/token.js:26:28)\n    at /Users/shaan/Anon coin/server/routes/token.js:106:21\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:149:13)\n    at Route.dispatch (/Users/shaan/Anon coin/node_modules/express/lib/router/route.js:119:3)\n    at Layer.handle [as handle_request] (/Users/shaan/Anon coin/node_modules/express/lib/router/layer.js:95:5)\n    at /Users/shaan/Anon coin/node_modules/express/lib/router/index.js:284:15\n    at router.process_params (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:346:12)\n    at next (/Users/shaan/Anon coin/node_modules/express/lib/router/index.js:280:10)","timestamp":"2026-02-01T19:44:11.247Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T19:46:13.833Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:46:15.099Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T19:46:15.101Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T19:46:15.101Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T19:46:15.102Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T19:46:15.102Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:48:03.051Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:48:03.051Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T19:48:03.074Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:48:32.589Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:48:50.662Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:51:57.209Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:52:27.177Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":1,"timestamp":"2026-02-01T19:52:27.178Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.02}
+{"level":"info","message":"Generated 1 stealth wallets","timestamp":"2026-02-01T19:52:27.180Z"}
+{"level":"info","message":"Executing buy 1/1 to 9AN4mWia...","timestamp":"2026-02-01T19:52:27.180Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 683550385715288 tokens","timestamp":"2026-02-01T19:52:27.931Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T19:52:29.156Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:52:49.605Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T19:53:00.360Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:53:01.633Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T19:53:01.638Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T19:53:01.638Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T19:53:01.639Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T19:53:01.639Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:53:16.358Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:53:16.358Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T19:53:16.380Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":1,"timestamp":"2026-02-01T19:53:16.380Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.001}
+{"level":"info","message":"Generated 1 stealth wallets","timestamp":"2026-02-01T19:53:16.381Z"}
+{"level":"info","message":"Executing buy 1/1 to BDYWzg8r...","timestamp":"2026-02-01T19:53:16.381Z"}
+{"level":"info","message":"Quote: 900000 lamports → 30933424211130 tokens","timestamp":"2026-02-01T19:53:16.717Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T19:53:17.763Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:55:47.558Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":2,"timestamp":"2026-02-01T19:55:47.558Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.02}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T19:55:47.560Z"}
+{"level":"info","message":"Executing buy 1/2 to K6bFHpZ7...","timestamp":"2026-02-01T19:55:47.560Z"}
+{"level":"info","message":"Quote: 9900000 lamports → 340168190298711 tokens","timestamp":"2026-02-01T19:55:47.927Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T19:55:49.162Z"}
+{"level":"info","message":"Executing buy 2/2 to AN1HAxU6...","timestamp":"2026-02-01T19:55:49.162Z"}
+{"level":"info","message":"Quote: 9900000 lamports → 340168190298711 tokens","timestamp":"2026-02-01T19:55:49.407Z"}
+{"level":"error","message":"Buy 2 failed:","timestamp":"2026-02-01T19:55:50.283Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T19:57:32.809Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:57:34.051Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T19:57:34.053Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T19:57:34.053Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T19:57:34.054Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T19:57:34.054Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T19:58:13.264Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T19:58:13.264Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T19:58:13.287Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":1,"timestamp":"2026-02-01T19:58:13.287Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.02}
+{"level":"info","message":"Generated 1 stealth wallets","timestamp":"2026-02-01T19:58:13.288Z"}
+{"level":"info","message":"Executing buy 1/1 to DYPCH36g...","timestamp":"2026-02-01T19:58:13.288Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 683550385715288 tokens","timestamp":"2026-02-01T19:58:13.698Z"}
+{"level":"info","message":"✅ Swap tx sent: 24UKu6uwVKmEGrKcpxQBhTf9RHdMWTvBowKtvQwETWziewdvZ91GquqGMnoyrETxb4gD6qz4VftzrZUDDm7oZrM1","timestamp":"2026-02-01T19:58:14.884Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T19:58:44.885Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:04:05.561Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":1,"timestamp":"2026-02-01T20:04:05.562Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.02}
+{"level":"info","message":"Generated 1 stealth wallets","timestamp":"2026-02-01T20:04:05.562Z"}
+{"level":"info","message":"Executing buy 1/1 to 3LRNysJ3...","timestamp":"2026-02-01T20:04:05.562Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 683550385715288 tokens","timestamp":"2026-02-01T20:04:05.963Z"}
+{"level":"info","message":"✅ Swap tx sent: 635BZtpA8EmuprUq8jsswu8RR6ryVYUaszhPpbvb81SL2JwHYw61oRNM3oZUMvZgyMdGLs8FXYKyyzS3MWoHfXuJ","timestamp":"2026-02-01T20:04:07.514Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:04:12.828Z"}
+{"level":"info","message":"✅ Transfer to stealth: 5hjZa4adHDSoj1Uetieb36HyyQi4qxpqcBwY5wtWsWwjnhxqd3Dw4aSyuebUYGdHAnYJm5uUUjWsyqDfJx7gMRcc","timestamp":"2026-02-01T20:04:15.416Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:07:17.028Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":2,"timestamp":"2026-02-01T20:07:17.029Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.04}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T20:07:17.030Z"}
+{"level":"info","message":"Executing buy 1/2 to 8uNq9esY...","timestamp":"2026-02-01T20:07:17.030Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 682667535083399 tokens","timestamp":"2026-02-01T20:07:17.398Z"}
+{"level":"info","message":"✅ Swap tx sent: 4t8tQrF28KFrRETnqh3UQVuuVsMsfPPk4Bf2FSFq1BrASYfcW2QJ983cz2XZQF5xFMQBB1BkbqUmsu7eaAmi6M3q","timestamp":"2026-02-01T20:07:18.403Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T20:07:48.405Z"}
+{"level":"info","message":"Executing buy 2/2 to AumLkivZ...","timestamp":"2026-02-01T20:07:48.405Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 682667535083399 tokens","timestamp":"2026-02-01T20:07:48.730Z"}
+{"level":"info","message":"✅ Swap tx sent: 2zE4AxUDL7BZjhUdZ4VpFhGm8J4txStxA5tVbn8jPvJbCi4RC99dAQ6tkG1a9rXPRnAA39Df6HyU88nCiwb8bX4i","timestamp":"2026-02-01T20:07:50.297Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:07:54.991Z"}
+{"level":"info","message":"✅ Transfer to stealth: 2ZWMcv9hqNfCqnK8y75JZNH8jnKCtdFbWmYcuZTai3UAvGRxcJ8eTGgsmsbDnCpgknniS9LsADmsxt3pBJgDMgPF","timestamp":"2026-02-01T20:07:58.702Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:09:52.710Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":2,"timestamp":"2026-02-01T20:09:52.710Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.04}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T20:09:52.711Z"}
+{"level":"info","message":"Executing buy 1/2 to eDNFaaQr...","timestamp":"2026-02-01T20:09:52.711Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 681786393737846 tokens","timestamp":"2026-02-01T20:09:53.075Z"}
+{"level":"info","message":"✅ Swap tx sent: 5mffbUhBMt55Gv7YBJf1phU9DLx8CpNxJ4rsTYibpsZ5KtqxwefU3BnH3F9dMvJq1DuHMSE5PNzrm1aquDv4NX8","timestamp":"2026-02-01T20:09:53.904Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T20:10:23.906Z"}
+{"level":"info","message":"Executing buy 2/2 to DmZnYdvf...","timestamp":"2026-02-01T20:10:23.906Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 681786393737846 tokens","timestamp":"2026-02-01T20:10:24.328Z"}
+{"level":"info","message":"✅ Swap tx sent: 3YZfvkh2Fu6rK1iZj2iiJjS5WaW87mWMR1xZVJYjtSi86MfnHnpzf5W61vW8xywJo4eVpPVduLRrJKhSDSYxtDB5","timestamp":"2026-02-01T20:10:25.753Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:10:26.642Z"}
+{"level":"info","message":"✅ Transfer to stealth: 48B32tVt79fWb8G5wL7dBDU24VoFtx8tuGfn1QeMtJDCuQphQi6ajSKhpfMzD2rjNXLkfaqpbTZ6Z1yvGUzEGCib","timestamp":"2026-02-01T20:10:34.537Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T20:21:10.686Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:21:11.977Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T20:21:11.979Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T20:21:11.980Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T20:21:11.980Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T20:21:11.980Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:21:28.118Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:21:28.118Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T20:21:28.142Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":2,"timestamp":"2026-02-01T20:21:28.142Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.04}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T20:21:28.144Z"}
+{"level":"info","message":"Executing 2 buys in PARALLEL...","timestamp":"2026-02-01T20:21:28.144Z"}
+{"level":"info","message":"Starting buy 1/2 to G5qS9KNb...","timestamp":"2026-02-01T20:21:28.144Z"}
+{"level":"info","message":"Starting buy 2/2 to EmrWRN5G...","timestamp":"2026-02-01T20:21:28.158Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 680906957269012 tokens","timestamp":"2026-02-01T20:21:28.550Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 680906957269012 tokens","timestamp":"2026-02-01T20:21:28.553Z"}
+{"level":"info","message":"✅ Swap tx sent: nwsBAGWkTr3czTvPzeBLqz4dtdS4Ez6rGoFQ6w84sS9uDLc17Hre8zNxYf1z2V2Q2VbzSMoPPwADK6esvCcMLkf","timestamp":"2026-02-01T20:21:29.319Z"}
+{"level":"info","message":"✅ Swap tx sent: nwsBAGWkTr3czTvPzeBLqz4dtdS4Ez6rGoFQ6w84sS9uDLc17Hre8zNxYf1z2V2Q2VbzSMoPPwADK6esvCcMLkf","timestamp":"2026-02-01T20:21:29.858Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:21:48.804Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:21:48.806Z"}
+{"level":"info","message":"✅ Transfer to stealth: 3FZb3FoDGSF7eEPQKPuK8QB1hW3tqCfbnuXMfzTStm9rDD1EebXp6vHLDNtFMA7jad7wTcE8F2iCWM6rPDEqNtip","timestamp":"2026-02-01T20:21:51.108Z"}
+{"level":"info","message":"✅ Transfer to stealth: 47UPPaAKx5595RCT3zCdHEZPwJySYCL7JZZNVvFdLJtNC398qq7FLu5bTToxDnTtNJmvmFiFn5waUFDcnKyfdm4k","timestamp":"2026-02-01T20:21:51.133Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T20:25:24.936Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:25:26.225Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T20:25:26.228Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T20:25:26.228Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T20:25:26.228Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T20:25:26.228Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:25:41.995Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:25:41.995Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T20:25:42.017Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":2,"timestamp":"2026-02-01T20:25:42.017Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.04}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T20:25:42.019Z"}
+{"level":"info","message":"Executing 2 buys in PARALLEL (staggered)...","timestamp":"2026-02-01T20:25:42.019Z"}
+{"level":"info","message":"Starting buy 1/2 to AtMYkHG7...","timestamp":"2026-02-01T20:25:42.019Z"}
+{"level":"info","message":"Starting buy 2/2 to HuZRLtJh...","timestamp":"2026-02-01T20:25:42.219Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 680029221281491 tokens","timestamp":"2026-02-01T20:25:42.403Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 680029221281491 tokens","timestamp":"2026-02-01T20:25:42.541Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T20:25:43.221Z"}
+{"level":"error","message":"Buy 2 failed:","timestamp":"2026-02-01T20:25:43.370Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:28:34.408Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":2,"timestamp":"2026-02-01T20:28:34.408Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.04}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T20:28:34.409Z"}
+{"level":"info","message":"Executing 2 buys in PARALLEL (staggered)...","timestamp":"2026-02-01T20:28:34.409Z"}
+{"level":"info","message":"Starting buy 1/2 to 7EbZ8Zpk...","timestamp":"2026-02-01T20:28:34.409Z"}
+{"level":"info","message":"Starting buy 2/2 to 843ADtPw...","timestamp":"2026-02-01T20:28:34.610Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 680029221281491 tokens","timestamp":"2026-02-01T20:28:34.798Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 680029221281491 tokens","timestamp":"2026-02-01T20:28:34.934Z"}
+{"level":"info","message":"✅ Swap tx sent: 5a59wFVHYfeMfVdKHd75UDmytzf5khsE2xhtEZv1w6Bn7FF94ak2Anxj7ZeEZ84ucnaGL9ws8fLjGEpJZpWG32bC","timestamp":"2026-02-01T20:28:36.106Z"}
+{"level":"info","message":"✅ Swap tx sent: 4aHJ4Czov4cRp9RNu5cSSrGXVVGkk9riwvbPDyR8yugL6W199YtmmoJu5EgHSSvbJ2fWfXnHBhL1PamGwNCeArrm","timestamp":"2026-02-01T20:28:36.412Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:28:38.866Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:28:40.749Z"}
+{"level":"info","message":"✅ Transfer to stealth: 4XccgU6gDGyih2WEvw6ZaGKkfvwHb7v92xuViaNAyiPhG4Y3hYkYhijhtntHiv6eKz3erhztRa6jQXTw37uBoCxr","timestamp":"2026-02-01T20:28:44.375Z"}
+{"level":"info","message":"✅ Transfer to stealth: 2VMydistA1dqtmxXbusfDmhfZc5PyNKViDLe9bsqz99MLPEMG2zttbzccxx4DkdhbMziLQg1hgadXTBr8YGnjkJd","timestamp":"2026-02-01T20:28:58.878Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:32:19.170Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":3,"timestamp":"2026-02-01T20:32:19.171Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.06}
+{"level":"info","message":"Generated 3 stealth wallets","timestamp":"2026-02-01T20:32:19.171Z"}
+{"level":"info","message":"Executing 3 buys in PARALLEL (staggered)...","timestamp":"2026-02-01T20:32:19.171Z"}
+{"level":"info","message":"Starting buy 1/3 to 8UoNTF6f...","timestamp":"2026-02-01T20:32:19.171Z"}
+{"level":"info","message":"Starting buy 2/3 to 2i137HCK...","timestamp":"2026-02-01T20:32:19.372Z"}
+{"level":"info","message":"Starting buy 3/3 to 4xPqLRSh...","timestamp":"2026-02-01T20:32:19.573Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 678278833239481 tokens","timestamp":"2026-02-01T20:32:19.659Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 678278833239481 tokens","timestamp":"2026-02-01T20:32:19.801Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 678278833239481 tokens","timestamp":"2026-02-01T20:32:19.895Z"}
+{"level":"info","message":"✅ Swap tx sent: 2FTK812TA6BQWsRTHiM7LSELVCpA9p3ZFGsDoDJ1nXKBnCugQHFBBDUsx6ZLitMTVBhavdwLfCK6EEBjaijszNJm","timestamp":"2026-02-01T20:32:20.775Z"}
+{"level":"info","message":"✅ Swap tx sent: 4AjvhghCJ5txWkAA2UrY8VHuAQAnUzN9tHFaMtC4kJUFASGssWqyzEunizoiATi7H2HzjELmCUDqif1aQEGxZ8x8","timestamp":"2026-02-01T20:32:20.813Z"}
+{"level":"info","message":"✅ Swap tx sent: 2FTK812TA6BQWsRTHiM7LSELVCpA9p3ZFGsDoDJ1nXKBnCugQHFBBDUsx6ZLitMTVBhavdwLfCK6EEBjaijszNJm","timestamp":"2026-02-01T20:32:21.137Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:32:22.020Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:32:22.021Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:32:22.021Z"}
+{"level":"info","message":"✅ Transfer to stealth: 4a2ti2JeVW9DfECbP6sApVhMRt8gXpgerh3XnTcmn8o6CoiwvMYtj4trnnxaHyzVAZRLVZTyKFjPPA8BBj6m9nmM","timestamp":"2026-02-01T20:32:24.488Z"}
+{"level":"info","message":"✅ Transfer to stealth: KvjkaRnMDhfFHuuUij3y7MYpdzvj8EkY6XHtUKD1fXrMaTpEqhkz9Coy1dirvtA1pAkcP3zSdvHuNFo4NKcMVu8","timestamp":"2026-02-01T20:32:24.490Z"}
+{"level":"info","message":"✅ Transfer to stealth: 3QKx1VdfACABPpLN53fisXGb4tZEwW12qAXo3yE7c9C2QCNFywr2EE8CFPvLes8UGSkUc1jgFpHwBJtsdxA44Gq2","timestamp":"2026-02-01T20:32:24.490Z"}
+{"level":"info","message":"SIGTERM received, shutting down gracefully","timestamp":"2026-02-01T20:33:14.446Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:33:15.747Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T20:33:15.750Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T20:33:15.750Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T20:33:15.750Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T20:33:15.751Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/prebuy"},"timestamp":"2026-02-01T20:39:29.808Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:39:29.809Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T20:39:29.831Z"}
+{"level":"info","message":"🎯 Starting pre-buy for existing token","numWallets":3,"timestamp":"2026-02-01T20:39:29.831Z","tokenAddress":"E2wwdzHgdX6T68V4AFAk2f3ya6ctEU5gkAhhaxUidoge","totalSol":0.06}
+{"level":"info","message":"Generated 3 stealth wallets","timestamp":"2026-02-01T20:39:29.833Z"}
+{"level":"info","message":"Executing 3 buys in PARALLEL (staggered)...","timestamp":"2026-02-01T20:39:29.833Z"}
+{"level":"info","message":"Starting buy 1/3 to 24VC2ofx...","timestamp":"2026-02-01T20:39:29.834Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 676535194730692 tokens","timestamp":"2026-02-01T20:39:30.205Z"}
+{"level":"info","message":"Starting buy 2/3 to 3DBwsUR8...","timestamp":"2026-02-01T20:39:30.334Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 676535194730692 tokens","timestamp":"2026-02-01T20:39:30.723Z"}
+{"level":"info","message":"Starting buy 3/3 to 6HQdfPCw...","timestamp":"2026-02-01T20:39:30.834Z"}
+{"level":"info","message":"Quote: 19900000 lamports → 676535194730692 tokens","timestamp":"2026-02-01T20:39:31.201Z"}
+{"level":"info","message":"✅ Swap tx sent: 35q4yxQVMHdv9oCEigdwi6bAyhx62nbzoPh29RYxFWPFXANy416uzVFwD9S5DkLiDWrgG1g2hGhc8g2xJTnGSm4t","timestamp":"2026-02-01T20:39:31.887Z"}
+{"level":"info","message":"✅ Swap tx sent: ND3nAncJoN6PBpmjZyQZ11vDUxSy2KUnpr63qN6PzyQfM5mkunz7ySLfzGY4ZU2uJvbudRX1PStJLEKFfqpG9rB","timestamp":"2026-02-01T20:39:32.253Z"}
+{"level":"info","message":"✅ Swap tx sent: 5bzzYzgkepMcR9hDjyzjP5HJVuDGAnucnW7FCBCfTkiNEcFSsHUf8SWhpPBYjqACtm8SymPtk6QgYPQNJDqGXvZp","timestamp":"2026-02-01T20:39:32.584Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:39:34.349Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:39:34.354Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T20:39:34.375Z"}
+{"level":"info","message":"✅ Transfer to stealth: 4RqpAKfnLdx1hCysNZ1dEqoiiUQYZkDvYZYoHPiUjfar1ZkPo39FYUdYSHApKJ6f1rdiWheL8Dye2HPYMarmQh69","timestamp":"2026-02-01T20:39:42.875Z"}
+{"level":"info","message":"✅ Transfer to stealth: 5JZm4Q6KfdkqSemdNzTrbiiGFUTPHccCrbo5fxB8UZfnk4aLqaZVt3PagKx2DRVV7bLNgWYRuWdbydJ8Z28B68cF","timestamp":"2026-02-01T20:39:42.875Z"}
+{"level":"info","message":"✅ Transfer to stealth: 4kKsumZz5j3zsZbfTrHcKNK3L7xztk3nsGPEvxbmFer3i45zuY4JNoz1hm8QuEaXgp4NjSyWVHMU9E8CyGnL7ffL","timestamp":"2026-02-01T20:39:42.875Z"}
+{"level":"info","message":{"ip":"127.0.0.1","method":"POST","path":"/api/v1/token/launch-with-prebuy"},"timestamp":"2026-02-01T20:55:27.983Z"}
+{"level":"info","message":"🚀 Starting bundled launch + pre-buy","numWallets":2,"preBuySol":0.1,"timestamp":"2026-02-01T20:55:27.983Z","tokenName":"hackathontest2","tokenSymbol":"HK2"}
+{"level":"info","message":"Generating stealth wallets...","timestamp":"2026-02-01T20:55:27.983Z"}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T20:55:27.984Z"}
+{"level":"info","message":"Will distribute 0.05 SOL to each of 2 wallets","timestamp":"2026-02-01T20:55:27.984Z"}
+{"level":"info","message":"Launching token via Anoncoin API...","timestamp":"2026-02-01T20:55:27.984Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"hackathontest2","symbol":"HK2","timestamp":"2026-02-01T20:55:27.985Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for create coin","requestId":"572fe910-ffb0-11f0-afd0-672ec7596b1f","status":false},"status":400,"timestamp":"2026-02-01T20:55:29.531Z"}
+{"level":"error","message":"Token launch failed:","timestamp":"2026-02-01T20:55:29.532Z"}
+{"level":"error","message":"Token launch failed: Bad request: Daily limit reached for create coin","path":"/api/v1/token/launch-with-prebuy","stack":"Error: Token launch failed: Bad request: Daily limit reached for create coin\n    at BundledLaunchService.launchWithPreBuy (/Users/shaan/Anon coin/server/services/launch/BundledLaunchService.js:85:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:93:20","timestamp":"2026-02-01T20:55:29.533Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:56:25.046Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T20:56:25.049Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T20:56:25.049Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T20:56:25.049Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T20:56:25.049Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T20:57:14.361Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T20:59:25.933Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T20:59:25.935Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T20:59:25.936Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T20:59:25.936Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T20:59:25.936Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T20:59:38.859Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/launch"},"timestamp":"2026-02-01T20:59:58.827Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/launch-with-prebuy"},"timestamp":"2026-02-01T21:01:18.894Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T21:01:18.895Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T21:01:18.931Z"}
+{"level":"info","message":"🚀 Starting bundled launch + pre-buy","numWallets":2,"preBuySol":0.05,"timestamp":"2026-02-01T21:01:18.931Z","tokenName":"hackathon test","tokenSymbol":"HACK2"}
+{"level":"info","message":"Generating stealth wallets...","timestamp":"2026-02-01T21:01:18.931Z"}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T21:01:18.933Z"}
+{"level":"info","message":"Will distribute 0.025 SOL to each of 2 wallets","timestamp":"2026-02-01T21:01:18.933Z"}
+{"level":"info","message":"Launching token via Anoncoin API...","timestamp":"2026-02-01T21:01:18.933Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"hackathon test","symbol":"HACK2","timestamp":"2026-02-01T21:01:18.933Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"J6omzVQjoVmGYL3kPdBwWSq4ZNT794TxnRSEmWDBdoge","timestamp":"2026-02-01T21:01:22.627Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T21:01:22.627Z"}
+{"level":"info","message":"Transaction sent (base58), waiting for confirmation...","timestamp":"2026-02-01T21:01:23.137Z","txSignature":"3vX6GWx5dUiCJ9A2oeKJKQKkPHraQVEZFEL91qPkU7hfhduPuGCrcPRmFkwr9FnhsdCkarj5PUNUSJ9YuLEfXC3K"}
+{"level":"info","message":"Waiting for confirmation... (0s)","timestamp":"2026-02-01T21:01:24.715Z"}
+{"confirmationStatus":"confirmed","level":"info","message":"✅ Transaction CONFIRMED on-chain!","timestamp":"2026-02-01T21:01:26.011Z","txSignature":"3vX6GWx5dUiCJ9A2oeKJKQKkPHraQVEZFEL91qPkU7hfhduPuGCrcPRmFkwr9FnhsdCkarj5PUNUSJ9YuLEfXC3K"}
+{"level":"info","message":"✅ Token launched!","timestamp":"2026-02-01T21:01:26.012Z","tokenAddress":"J6omzVQjoVmGYL3kPdBwWSq4ZNT794TxnRSEmWDBdoge"}
+{"level":"info","message":"Waiting for token to be indexed on Jupiter...","timestamp":"2026-02-01T21:01:26.012Z"}
+{"level":"info","message":"🔥 Executing pre-buys...","timestamp":"2026-02-01T21:01:29.014Z"}
+{"level":"info","message":"Executing 2 buys in PARALLEL (staggered)...","timestamp":"2026-02-01T21:01:29.015Z"}
+{"level":"info","message":"Starting buy 1/2 to 4AxA2PwA...","timestamp":"2026-02-01T21:01:29.017Z"}
+{"level":"info","message":"Quote: 24900000 lamports → 802826215971782 tokens","timestamp":"2026-02-01T21:01:29.400Z"}
+{"level":"info","message":"Starting buy 2/2 to 6uZTvT6V...","timestamp":"2026-02-01T21:01:29.516Z"}
+{"level":"info","message":"Quote: 24900000 lamports → 802826215971782 tokens","timestamp":"2026-02-01T21:01:29.936Z"}
+{"level":"info","message":"✅ Swap tx sent: 2JXb7ziqUFejWH12rEoLX1DDQED5DDSjRaRW9dXWBxGmq2RHVWJzhWfYsEtF4SWfJsuV2UfJuoy79k39WkrZUBxC","timestamp":"2026-02-01T21:01:30.074Z"}
+{"level":"info","message":"✅ Swap tx sent: 3BMhnYZm7aG3hjHNRpqhFvTVTcyMk7Ma1Dfdt9KWihQ34EuVXgq1tYu3MmHKdsATjKLWrwvp8DXUcY5eTZ1A2RqN","timestamp":"2026-02-01T21:01:31.808Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T21:01:32.565Z"}
+{"level":"info","message":"✅ Transfer to stealth: 2KEQcxKgTaVcPvLoCFG3PLit8U3niAcSPSuZihtXZFYYAxTdsbheaFULUecRR7MTXycTT1nXcT3RhQ2sACozfU4C","timestamp":"2026-02-01T21:01:34.425Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T21:01:35.987Z"}
+{"level":"error","message":"Buy 1 failed:","timestamp":"2026-02-01T21:01:36.687Z"}
+{"level":"info","message":"Pre-buy complete: 1/2 successful","timestamp":"2026-02-01T21:01:36.688Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T21:15:58.507Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T21:15:58.509Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T21:15:58.510Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T21:15:58.510Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T21:15:58.510Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/launch-with-prebuy"},"timestamp":"2026-02-01T21:17:24.436Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T21:17:24.437Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T21:17:24.471Z"}
+{"level":"info","message":"🚀 Starting bundled launch + pre-buy","numWallets":2,"preBuySol":0.05,"timestamp":"2026-02-01T21:17:24.471Z","tokenName":"hackathon","tokenSymbol":"HACK3"}
+{"level":"info","message":"Generating stealth wallets...","timestamp":"2026-02-01T21:17:24.471Z"}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T21:17:24.473Z"}
+{"level":"info","message":"Will distribute 0.025 SOL to each of 2 wallets","timestamp":"2026-02-01T21:17:24.473Z"}
+{"level":"info","message":"Launching token via Anoncoin API...","timestamp":"2026-02-01T21:17:24.473Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"hackathon","symbol":"HACK3","timestamp":"2026-02-01T21:17:24.474Z"}
+{"hasSignedTx":true,"level":"info","message":"Token creation response from Anoncoin:","mintAddress":"A3b6K2QyZKVGpjGTb21F8GoYnNBaifgAGgNv8uQSdoge","timestamp":"2026-02-01T21:17:27.841Z"}
+{"level":"info","message":"Broadcasting transaction to Solana...","timestamp":"2026-02-01T21:17:27.842Z"}
+{"level":"info","message":"Transaction sent (base58), waiting for confirmation...","timestamp":"2026-02-01T21:17:28.315Z","txSignature":"4GxcvodQdVQtnQphWfBwTU16TwXUcGbxjpRtT9RcGmpMESR1dG3UsvwxSo5Zwp6bASoV7Kyq9ZoFp4vdB64M6RLk"}
+{"level":"info","message":"Waiting for confirmation... (0s)","timestamp":"2026-02-01T21:17:29.629Z"}
+{"confirmationStatus":"confirmed","level":"info","message":"✅ Transaction CONFIRMED on-chain!","timestamp":"2026-02-01T21:17:32.207Z","txSignature":"4GxcvodQdVQtnQphWfBwTU16TwXUcGbxjpRtT9RcGmpMESR1dG3UsvwxSo5Zwp6bASoV7Kyq9ZoFp4vdB64M6RLk"}
+{"level":"info","message":"✅ Token launched!","timestamp":"2026-02-01T21:17:32.208Z","tokenAddress":"A3b6K2QyZKVGpjGTb21F8GoYnNBaifgAGgNv8uQSdoge"}
+{"level":"info","message":"Waiting for token to be indexed on Jupiter...","timestamp":"2026-02-01T21:17:32.208Z"}
+{"level":"info","message":"🔥 Executing pre-buys...","timestamp":"2026-02-01T21:17:35.209Z"}
+{"level":"info","message":"Executing 2 buys in PARALLEL (staggered)...","timestamp":"2026-02-01T21:17:35.210Z"}
+{"level":"info","message":"Starting buy 1/2 to FprHMFf2...","timestamp":"2026-02-01T21:17:35.212Z"}
+{"level":"info","message":"Quote: 24900000 lamports → 855846845316394 tokens","timestamp":"2026-02-01T21:17:35.675Z"}
+{"level":"info","message":"Starting buy 2/2 to 7VQutkuj...","timestamp":"2026-02-01T21:17:35.712Z"}
+{"level":"info","message":"Quote: 24900000 lamports → 855846845316394 tokens","timestamp":"2026-02-01T21:17:36.040Z"}
+{"level":"info","message":"✅ Swap tx sent: 5GYW29tL2B6RyLyJt71kLCk1izRTExiY5A1nW6cyvjNQyuB2r3xqZV9PQKM9tfV2TTYqgDcV3g9MpvoU68cJd7dz","timestamp":"2026-02-01T21:17:36.468Z"}
+{"level":"info","message":"✅ Swap tx sent: 3THXrdkWcCdCWEeEAYWhGRdYVNmWpFi2Yf166z8EttUCG8VEiairFeuUaurJJZtghwwt4MrnWoacvmqyT8vKQUCY","timestamp":"2026-02-01T21:17:36.725Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T21:17:39.476Z"}
+{"level":"info","message":"✅ Swap confirmed","timestamp":"2026-02-01T21:17:39.479Z"}
+{"level":"info","message":"✅ Transfer to stealth: 2XN6FTH51jddKxyctirU7fueCmzL411Xkk4ZjdHo7CFs49RHpgwp8ajCBCXPm8ZtgRzsBFksUVmYba69cZFjh3tN","timestamp":"2026-02-01T21:17:42.878Z"}
+{"level":"info","message":"✅ Transfer to stealth: 2K4dUt7auZu5kRcibnYzKXXtoD2pbzy1EJf7GBm5SfpP7aFhrhsdMwFGvBaSHpTAoAvVViBhPJrBPK2DtYw9Yfdq","timestamp":"2026-02-01T21:17:42.880Z"}
+{"level":"info","message":"Pre-buy complete: 2/2 successful","timestamp":"2026-02-01T21:17:42.880Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T21:26:24.219Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T21:26:24.221Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T21:26:24.221Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T21:26:24.221Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T21:26:24.222Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/health"},"timestamp":"2026-02-01T21:29:44.778Z"}
+{"level":"info","message":{"ip":"1","method":"POST","path":"/api/v1/token/launch-with-prebuy"},"timestamp":"2026-02-01T21:32:44.576Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T21:32:44.577Z"}
+{"level":"info","message":"BundledLaunchService initialized","timestamp":"2026-02-01T21:32:44.614Z"}
+{"level":"info","message":"🚀 Starting bundled launch + pre-buy","numWallets":2,"preBuySol":0.05,"timestamp":"2026-02-01T21:32:44.614Z","tokenName":"Hackathon4","tokenSymbol":"HACK4"}
+{"level":"info","message":"Generating stealth wallets...","timestamp":"2026-02-01T21:32:44.614Z"}
+{"level":"info","message":"Generated 2 stealth wallets","timestamp":"2026-02-01T21:32:44.616Z"}
+{"level":"info","message":"Will distribute 0.025 SOL to each of 2 wallets","timestamp":"2026-02-01T21:32:44.616Z"}
+{"level":"info","message":"Launching token via Anoncoin API...","timestamp":"2026-02-01T21:32:44.616Z"}
+{"level":"info","message":"Deploying token via Anoncoin API...","name":"Hackathon4","symbol":"HACK4","timestamp":"2026-02-01T21:32:44.616Z"}
+{"level":"error","message":"Token deployment failed: Request failed with status code 400","response":{"data":null,"errorCode":null,"message":"Daily limit reached for video generation","requestId":"8c5a7fb0-ffb5-11f0-afd0-672ec7596b1f","status":false},"status":400,"timestamp":"2026-02-01T21:32:46.645Z"}
+{"level":"error","message":"Token launch failed:","timestamp":"2026-02-01T21:32:46.646Z"}
+{"level":"error","message":"Token launch failed: Bad request: Daily limit reached for video generation","path":"/api/v1/token/launch-with-prebuy","stack":"Error: Token launch failed: Bad request: Daily limit reached for video generation\n    at BundledLaunchService.launchWithPreBuy (/Users/shaan/Anon coin/server/services/launch/BundledLaunchService.js:85:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async /Users/shaan/Anon coin/server/routes/token.js:93:20","timestamp":"2026-02-01T21:32:46.646Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T21:34:22.990Z"}
+{"level":"info","message":{"ip":"1","method":"GET","path":"/api/v1/darkpool/stats"},"timestamp":"2026-02-01T21:34:22.992Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T21:42:57.118Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T21:42:57.126Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T21:42:57.126Z"}
+{"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T21:42:57.126Z"}
+{"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T21:42:57.127Z"}

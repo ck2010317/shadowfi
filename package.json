@@ -1,0 +1,52 @@
+{
+  "name": "shadowfi-private-memecoin-platform",
+  "version": "1.0.0",
+  "description": "ShadowFi - Privacy-First Memecoin Launch Platform with Dark Pools, Anonymous Swaps & Private Presales",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "node server/index.js",
+    "client": "cd client && npm run dev",
+    "install:all": "npm install && cd client && npm install",
+    "build": "cd client && npm run build",
+    "start": "NODE_ENV=production node server/index.js"
+  },
+  "keywords": [
+    "privacy",
+    "memecoin",
+    "dark-pool",
+    "anonymous-swap",
+    "anoncoin",
+    "zk-proofs",
+    "web3"
+  ],
+  "author": "ShadowFi Team",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.4.14",
+    "@solana/web3.js": "^1.98.4",
+    "axios": "^1.6.5",
+    "bcryptjs": "^2.4.3",
+    "bs58": "^6.0.0",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.2.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.10.0",
+    "express": "^4.18.2",
+    "form-data": "^4.0.5",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.0",
+    "node-cache": "^5.1.2",
+    "rate-limiter-flexible": "^4.0.1",
+    "socket.io": "^4.7.4",
+    "tweetnacl": "^1.0.3",
+    "uuid": "^9.0.1",
+    "winston": "^3.11.0",
+    "ws": "^8.16.0"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.3"
+  }
+}

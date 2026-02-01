@@ -1,0 +1,187 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --neon-green: #00ff88;
+  --neon-purple: #bf00ff;
+  --neon-blue: #00d4ff;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Space Grotesk', sans-serif;
+  background: #0a0a0f;
+  color: #f4f4f5;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #18181b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3f3f46;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #52525b;
+}
+
+/* Glow effects */
+.glow-green {
+  box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
+}
+
+.glow-purple {
+  box-shadow: 0 0 20px rgba(139, 92, 246, 0.3);
+}
+
+.glow-blue {
+  box-shadow: 0 0 20px rgba(0, 212, 255, 0.3);
+}
+
+/* Text glow */
+.text-glow-green {
+  text-shadow: 0 0 10px rgba(0, 255, 136, 0.5);
+}
+
+.text-glow-purple {
+  text-shadow: 0 0 10px rgba(139, 92, 246, 0.5);
+}
+
+/* Gradient text */
+.gradient-text {
+  background: linear-gradient(135deg, #00ff88 0%, #00d4ff 50%, #bf00ff 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Cyber grid background */
+.cyber-bg {
+  background-color: #0a0a0f;
+  background-image: 
+    linear-gradient(to right, rgba(139, 92, 246, 0.05) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(139, 92, 246, 0.05) 1px, transparent 1px);
+  background-size: 50px 50px;
+}
+
+/* Glass effect */
+.glass {
+  background: rgba(24, 24, 27, 0.8);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(63, 63, 70, 0.5);
+}
+
+/* Button styles */
+.btn-primary {
+  @apply px-6 py-3 bg-gradient-to-r from-shadow-600 to-shadow-500 rounded-xl font-semibold text-white transition-all duration-300;
+  @apply hover:from-shadow-500 hover:to-shadow-400 hover:shadow-lg hover:shadow-shadow-500/30;
+  @apply active:scale-95;
+}
+
+.btn-neon {
+  @apply px-6 py-3 bg-transparent border-2 border-neon-green text-neon-green rounded-xl font-semibold transition-all duration-300;
+  @apply hover:bg-neon-green hover:text-dark-50 hover:shadow-lg hover:shadow-neon-green/30;
+  @apply active:scale-95;
+}
+
+/* Card styles */
+.card {
+  @apply bg-dark-50 rounded-2xl border border-dark-200 p-6 transition-all duration-300;
+  @apply hover:border-shadow-500/50;
+}
+
+.card-glow {
+  @apply card;
+  @apply hover:shadow-lg hover:shadow-shadow-500/20;
+}
+
+/* Input styles */
+.input-dark {
+  @apply w-full px-4 py-3 bg-dark-100 border border-dark-200 rounded-xl text-white placeholder-dark-400;
+  @apply focus:outline-none focus:border-shadow-500 focus:ring-2 focus:ring-shadow-500/20;
+  @apply transition-all duration-200;
+}
+
+/* Privacy indicator */
+.privacy-badge {
+  @apply inline-flex items-center gap-1 px-2 py-1 bg-neon-green/10 text-neon-green text-xs font-medium rounded-full;
+}
+
+/* Animated border */
+@keyframes border-dance {
+  0%, 100% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+}
+
+.animated-border {
+  position: relative;
+}
+
+.animated-border::before {
+  content: '';
+  position: absolute;
+  inset: -2px;
+  background: linear-gradient(90deg, #00ff88, #00d4ff, #bf00ff, #00ff88);
+  background-size: 300% 100%;
+  border-radius: inherit;
+  animation: border-dance 3s linear infinite;
+  z-index: -1;
+}
+
+/* Pulse animation for live indicators */
+.pulse-live {
+  animation: pulse-live 2s ease-in-out infinite;
+}
+
+@keyframes pulse-live {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* Number ticker */
+.number-ticker {
+  font-family: 'JetBrains Mono', monospace;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Loading spinner */
+.spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid rgba(139, 92, 246, 0.3);
+  border-top-color: #8b5cf6;
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+
+/* Tooltip */
+.tooltip {
+  @apply invisible opacity-0 absolute z-50 px-3 py-2 text-sm bg-dark-100 text-white rounded-lg transition-all duration-200;
+  @apply group-hover:visible group-hover:opacity-100;
+}
+
+/* Status colors */
+.status-pending { @apply text-yellow-500; }
+.status-active { @apply text-neon-green; }
+.status-completed { @apply text-blue-500; }
+.status-failed { @apply text-red-500; }
