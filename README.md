@@ -156,7 +156,9 @@ shadowfi/
 
 ## 🚀 Live Demo
 
-**Frontend:** [https://shadowfi.vercel.app](https://shadowfi.vercel.app)
+**Frontend:** [https://client-hazel-delta.vercel.app](https://client-hazel-delta.vercel.app)
+
+**GitHub:** [https://github.com/ck2010317/shadowfi](https://github.com/ck2010317/shadowfi)
 
 ---
 

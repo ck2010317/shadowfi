@@ -1,5 +1,5 @@
 /**
- * ShadowFi - Privacy-First Memecoin Platform
+ * ShadowFi - Privacy-First Token Launch Platform
  * Main Server Entry Point
  */
 
@@ -12,19 +12,11 @@ const { Server } = require('socket.io');
 const winston = require('winston');
 
 // Import routes
-const darkPoolRoutes = require('./routes/darkPool');
-const anonymousSwapRoutes = require('./routes/anonymousSwap');
-const presaleRoutes = require('./routes/presale');
-const identityRoutes = require('./routes/identity');
 const tokenRoutes = require('./routes/token');
-const prebuyRoutes = require('./routes/prebuy');
-const stealthRoutes = require('./routes/stealth');
 const anonswapRoutes = require('./routes/anonswap');
-const relayerRoutes = require('./routes/productionRelayer'); // PRODUCTION anonymous swaps!
+const relayerRoutes = require('./routes/productionRelayer');
 
 // Import services
-const DarkPoolEngine = require('./services/darkPool/DarkPoolEngine');
-const MixnetRouter = require('./services/privacy/MixnetRouter');
 const AnoncoinService = require('./services/anoncoin/AnoncoinService');
 
 // Logger setup
@@ -75,14 +67,10 @@ app.use((req, res, next) => {
 });
 
 // Initialize services
-const anoncoinService = new AnoncoinService(logger, new MixnetRouter(logger));
-const darkPoolEngine = new DarkPoolEngine(io, logger, anoncoinService);
-const mixnetRouter = new MixnetRouter(logger);
+const anoncoinService = new AnoncoinService(logger, null);
 
 // Make services available to routes
-app.set('darkPoolEngine', darkPoolEngine);
 app.set('anoncoinService', anoncoinService);
-app.set('mixnetRouter', mixnetRouter);
 app.set('logger', logger);
 app.set('io', io);
 
@@ -93,45 +81,21 @@ app.get('/health', (req, res) => {
     service: 'ShadowFi',
     timestamp: new Date().toISOString(),
     features: {
-      darkPool: darkPoolEngine.isRunning(),
-      mixnet: mixnetRouter.isActive(),
       anonymousSwaps: true,
-      privatePresales: true,
-      zkIdentity: true,
-      stealthAddresses: true, // REAL privacy feature!
-      stealthTokenLaunch: true, // REAL privacy feature!
-      anonymousSwaps: true // REAL privacy swaps!
+      stealthAddresses: true,
+      stealthTokenLaunch: true
     }
   });
 });
 
 // API Routes
-app.use('/api/v1/darkpool', darkPoolRoutes);
-app.use('/api/v1/swap', anonymousSwapRoutes);
-app.use('/api/v1/presale', presaleRoutes);
-app.use('/api/v1/identity', identityRoutes);
 app.use('/api/v1/token', tokenRoutes);
-app.use('/api/v1/prebuy', prebuyRoutes);
-app.use('/api/v1/stealth', stealthRoutes);
 app.use('/api/v1/anonswap', anonswapRoutes);
-app.use('/api/v1/relayer', relayerRoutes); // TRUE anonymous swaps via relayer!
+app.use('/api/v1/relayer', relayerRoutes);
 
 // WebSocket connection handling
 io.on('connection', (socket) => {
   logger.info('Client connected:', socket.id);
-
-  // Subscribe to dark pool updates (anonymized)
-  socket.on('subscribe:darkpool', (data) => {
-    const room = `darkpool:${data.tokenAddress}`;
-    socket.join(room);
-    logger.info(`Socket ${socket.id} joined ${room}`);
-  });
-
-  // Subscribe to presale updates
-  socket.on('subscribe:presale', (data) => {
-    const room = `presale:${data.launchId}`;
-    socket.join(room);
-  });
 
   socket.on('disconnect', () => {
     logger.info('Client disconnected:', socket.id);
@@ -166,20 +130,11 @@ const PORT = process.env.PORT || 3001;
 httpServer.listen(PORT, () => {
   logger.info(`🌑 ShadowFi server running on port ${PORT}`);
   logger.info(`Environment: ${process.env.NODE_ENV || 'development'}`);
-  
-  // Start dark pool matching engine
-  darkPoolEngine.start();
-  
-  // Initialize mixnet router
-  mixnetRouter.initialize();
 });
 
 // Graceful shutdown
 process.on('SIGTERM', async () => {
   logger.info('SIGTERM received, shutting down gracefully');
-  
-  darkPoolEngine.stop();
-  mixnetRouter.shutdown();
   
   httpServer.close(() => {
     logger.info('Server closed');

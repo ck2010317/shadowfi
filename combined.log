@@ -1170,3 +1170,6 @@
 {"level":"info","message":"Environment: development","timestamp":"2026-02-01T21:42:57.126Z"}
 {"level":"info","message":"Dark Pool Engine started","timestamp":"2026-02-01T21:42:57.126Z"}
 {"level":"info","message":"Mixnet Router initialized with","timestamp":"2026-02-01T21:42:57.127Z"}
+{"level":"info","message":"Anoncoin API initialized: https://api.dubdub.tv","timestamp":"2026-02-01T22:04:29.067Z"}
+{"level":"info","message":"🌑 ShadowFi server running on port 3001","timestamp":"2026-02-01T22:04:29.070Z"}
+{"level":"info","message":"Environment: development","timestamp":"2026-02-01T22:04:29.070Z"}
