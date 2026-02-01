@@ -1,10 +1,10 @@
-# ShadowFi - Privacy Tooling for Token Launches 🌑
+# ShadowFi - Privacy Tooling for Token Launches 
 
 > **Built for Anoncoin Hackathon** - 
 
 ShadowFi provides **working privacy tools** for Solana token launches. Both features are **live on mainnet** - not simulations.
 
-## 🏆 What We Built
+## What We Built
 
 ### ✅ Anonymous Swap (WORKING)
 Swap any token without linking your wallet to the purchase.
