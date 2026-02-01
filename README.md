@@ -30,7 +30,7 @@ Launch a token and instantly buy into multiple stealth wallets - all in one acti
 
 ---
 
-## 🔥 Live Mainnet Proof
+##  Live Mainnet Proof
 
 ### Anonymous Swaps Completed:
 - [Swap 1](https://solscan.io/tx/4jinZmfx8QDYn9ave41hfpvc3YrUBqABp3QhECFj8f9VHBssPaUvsy1enTMGmKRHF6cnRFZ3basRxBrnKkAXPuJu) - SOL → SHADOW token
