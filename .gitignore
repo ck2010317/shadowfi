@@ -4,3 +4,8 @@ node_modules/
 .DS_Store
 client/node_modules/
 client/dist/
+
+# Logs
+*.log
+combined.log
+error.log
